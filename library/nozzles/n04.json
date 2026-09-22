@@ -4,8 +4,8 @@
   "kind": "nozzle",
   "nozzle_mm": 0.4,
   "verified": false,
-  "warn": "Сейчас в HARDWARE сопло 0.6. Этот набор на слайс не отправлять.",
-  "note": "Линии 0.4. На текущем сопле 0.6 не печатать.",
+  "warn": "На VolgoBot этим соплом ещё не печатали.",
+  "note": "Текущее сопло из HARDWARE. Линии равны диаметру 0.4.",
   "settings": {
     "machine_nozzle_size": 0.4,
     "line_width": 0.4,

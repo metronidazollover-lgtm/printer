@@ -1,0 +1,19 @@
+{
+  "id": "pla_205_235",
+  "title": "PLA 205–235",
+  "kind": "filament",
+  "verified": false,
+  "warn": "Диапазон сопла сказал пользователь, на VolgoBot не печатали. Ретракт прямого экструдера в эту карточку не входит.",
+  "note": "Рабочая точка внутри 205–235 взята с удачной корки лотоса: сопло 215, первый слой 220, стол 60. Верх диапазона 235 для рельефа не ставить.",
+  "settings": {
+    "material_diameter": 1.75,
+    "material_print_temperature": 215,
+    "material_print_temperature_layer_0": 220,
+    "material_bed_temperature": 60,
+    "material_bed_temperature_layer_0": 60,
+    "cool_fan_enabled": true,
+    "cool_fan_speed": 100,
+    "cool_fan_speed_0": 0,
+    "cool_fan_full_at_height": 0.64
+  }
+}

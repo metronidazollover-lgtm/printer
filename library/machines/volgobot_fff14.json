@@ -1,0 +1,19 @@
+{
+  "id": "volgobot_fff14",
+  "title": "VolgoBot FFF1.4",
+  "kind": "machine",
+  "drive": "direct",
+  "verified": false,
+  "warn": "Принтер ещё не включали, стартовый код не проверен печатью. G29 нет: по Z обычный концевик. Стол и G-code в Custom FFF (Tornado) не писать.",
+  "note": "Стол 200×200×250 подтверждён, это же поле в карточках магазинов. Сопло 0.4, прямой экструдер, ноль в переднем левом углу. Стартовый код черновой: нагрев, G28, одна линия очистки. Температуры PLA 205–235 в карточку машины не входят.",
+  "settings": {
+    "machine_width": 200,
+    "machine_depth": 200,
+    "machine_height": 250,
+    "machine_heated_bed": true,
+    "machine_center_is_zero": false,
+    "machine_gcode_flavor": "RepRap (Marlin/Sprinter)",
+    "machine_start_gcode": "M140 S{material_bed_temperature_layer_0} ; Нагрев стола\nM104 S{material_print_temperature_layer_0} ; Нагрев сопла\nM190 S{material_bed_temperature_layer_0} ; Ждать стол\nM109 S{material_print_temperature_layer_0} ; Ждать сопло\nG28 ; Парковка всех осей по концевикам\nG92 E0 ; Сброс экструдера\nG1 Z2.0 F3000 ; Приподнять сопло\nG1 X10 Y20 Z0.28 F5000 ; Точка начала линии очистки\nG1 X10 Y180 Z0.28 F1500 E8 ; Линия очистки, прямой экструдер\nG92 E0 ; Сброс экструдера перед деталью\nG1 Z2.0 F3000 ; Приподнять сопло",
+    "machine_end_gcode": "G91 ; Относительные координаты\nG1 E-1 F1800 ; Короткий ретракт прямого экструдера\nG1 Z10 F3000 ; Поднять сопло\nG90 ; Абсолютные координаты\nG1 X0 Y190 F3000 ; Увести сопло к заднему краю\nM104 S0 ; Выключить сопло\nM140 S0 ; Выключить стол\nM106 S0 ; Выключить обдув\nM84 ; Отключить моторы"
+  }
+}

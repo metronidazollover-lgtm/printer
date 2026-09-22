@@ -48,7 +48,9 @@
 | Когда | Файл |
 |---|---|
 | Tornado 2 Pro, стол 360, G28+G29 | [machines/tornado2pro.json](machines/tornado2pro.json) |
+| VolgoBot FFF1.4, стол 200, прямой, только G28 | [machines/volgobot_fff14.json](machines/volgobot_fff14.json) |
 | eSUN PLA+ gray, проверенный ретракт | [filaments/esun_pla_plus_gray.json](filaments/esun_pla_plus_gray.json) |
+| PLA 205–235, точка 215/220, без ретракта | [filaments/pla_205_235.json](filaments/pla_205_235.json) |
 | PETG, на этом столе не печатали | [filaments/petg_orientir.json](filaments/petg_orientir.json) |
 | Сопло 0.6 и запасное 0.4 | [nozzles/](nozzles/) |
 
