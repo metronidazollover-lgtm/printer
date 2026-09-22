@@ -94,9 +94,48 @@ python tuner/server.py
 
 ## Как числа попадают в Cura
 
-Пока Cura 5.10 запущена и в ней жив плагин [CuraMCP](https://github.com/AuraFriday/cura_mcp), настройки можно записать в открытый профиль, не правя cfg руками. В Cursor для этого есть MCP-инструмент `cura`.
+Пока Cura 5.10 запущена и в ней жив плагин [CuraMCP](https://github.com/AuraFriday/cura_mcp), настройки можно записать в открытый профиль, не правя cfg руками. Инструмент называется `cura`. Его видит любой клиент, подключённый к локальному MCP-Link: Cursor, Claude Desktop, Antigravity и остальные. Клиент с Cura напрямую не говорит.
 
 В профиль уходит разница `settings` и `baseline`. Стартовый код, конечный код и размер стола машины, которая сейчас открыта в Cura, этот шаг не меняет.
+
+Установка — ниже. Исходник плагина в эту папку не кладётся: лицензия Aura Friday запрещает его распространять.
+
+## Установка связи с Cura
+
+Нужны три части. Проект поставляется без них.
+
+1. **UltiMaker Cura 5.10** с сайта UltiMaker. Другая мажорная версия держит профиль в другой папке `%APPDATA%\cura\<версия>`.
+2. **MCP-Link Server** с [релизов Aura Friday](https://github.com/AuraFriday/mcp-link-server/releases). Это локальный узел. Плагин Cura регистрирует на нём инструмент `cura`, а редактор агента подключается к узлу.
+3. **Плагин CuraMCP** с [релиза cura_mcp](https://github.com/AuraFriday/cura_mcp/releases) или из маркетплейса Cura. Папку `CuraMCP` положить в `%APPDATA%\cura\5.10\plugins\` (macOS: `~/Library/Application Support/cura/5.10/plugins/`, Linux: `~/.local/share/cura/5.10/plugins/`).
+
+После копирования в плагине три правки, без них на Cura 5.10 он не держит связь:
+
+- В `plugin.json` в `supported_sdk_versions` должна быть строка `8.10.0`. Иначе Cura 5.10 плагин не загрузит. Апстрим рассчитан на 5.11+.
+- В проверке регистрации успехом считать и текст `Successfully registered tool`, и JSON с полем `registered_name`. MCP-Link 1.3 отвечает JSON. Без этой проверки плагин отключается, вызовы падают с `Remote tool 'cura' disconnected before replying`.
+- В начале `main_worker` направить stderr в `%APPDATA%\cura\5.10\cura_mcp_debug.log`. В Cura 5.10 нет Help → Show Console, это пункт 5.11+.
+
+Перезапустить MCP-Link, затем Cura. В логе должны появиться `Connected` и регистрация инструмента `cura`.
+
+Клиенту нужен тот же адрес и токен, которые выдал установщик MCP-Link. Порт и токен у каждой машины свои, в репозиторий их не копируют. Имя сервера может быть любым; у этой установки оно `mypc`. Инструмент внутри сервера называется `cura`.
+
+Cursor и Claude Desktop принимают такой блок. Файл Cursor: `%USERPROFILE%\.cursor\mcp.json`. Файл Claude Desktop: `%APPDATA%\Claude\claude_desktop_config.json`. Установщик MCP-Link часто пишет его сам. Если запись уже есть, вторую не добавлять.
+
+```json
+{
+  "mcpServers": {
+    "mypc": {
+      "url": "https://127-0-0-1.local.aurafriday.com:<порт>/sse",
+      "headers": {
+        "Authorization": "Bearer <токен установщика MCP-Link>"
+      }
+    }
+  }
+}
+```
+
+Antigravity тот же узел добавляет через панель агента: MCP Servers → Manage MCP Servers → View raw config. В новых версиях ключ адреса называется `serverUrl`, не `url`. Файл конфига — тот, который открыл этот пункт (`~/.gemini/config/mcp_config.json` или `%USERPROFILE%\.gemini\antigravity\mcp_config.json`).
+
+Другой клиент подключается так же, если умеет удалённый MCP по SSE: адрес `/sse` и заголовок `Authorization`. Имя обёртки роли не играет. Пока Cura закрыта, инструмента `cura` в списке нет.
 
 Отдельный `CuraEngine.exe slice` на полном наборе значений Cura здесь не используется: на пустых углах заполнения он падает. Резать через окно Cura или через тот же плагин.
 

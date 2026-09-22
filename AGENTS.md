@@ -85,13 +85,13 @@ PLA/PETG цифры: `library/materials/`. Стартовые скорости �
 
 ## Cura MCP
 
-Пока Cura запущена и плагин жив, в Cursor есть MCP-сервер `mypc` (namespace `user-mypc`), инструмент **`cura`**.
+Пока Cura запущена и плагин жив, локальный MCP-Link отдаёт инструмент **`cura`**. Клиент может быть любым: Cursor (`mypc`), Claude Desktop, Antigravity. Обёртка к Cura не подключается, она говорит с MCP-Link.
 
 Типичный вызов: `{"input":{"operation":"execute_python","code":"print(app.getVersion())"}}`.
 
-Плагин: `%APPDATA%\cura\5.10\plugins\CuraMCP\`. Если папка пустая после рестарта — клонировать https://github.com/AuraFriday/cura_mcp в `plugins\CuraMCP`.
+Установка для человека: раздел «Установка связи с Cura» в `README.md`. Плагин ставят в `%APPDATA%\cura\5.10\plugins\CuraMCP\` с релиза Aura Friday. Исходник в этот репозиторий не копировать: лицензия запрещает распространение.
 
-Правки относительно апстрима (уже делались): `supported_sdk_versions` до `8.10.0`; регистрация MCP-Link 1.3 — JSON с `registered_name`, не строка `Successfully registered tool`; stderr воркера в `%APPDATA%\cura\5.10\cura_mcp_debug.log`.
+Правки относительно апстрима, без них Cura 5.10 не держит связь: `supported_sdk_versions` до `8.10.0`; регистрация MCP-Link 1.3 — JSON с `registered_name`, не строка `Successfully registered tool`; stderr воркера в `%APPDATA%\cura\5.10\cura_mcp_debug.log`. В 5.10 нет Help → Show Console.
 
 Слайс: `backend.setState(0)` → `backend.forceSlice()` → дождаться state 2 → `scene.gcode_dict[0]`. Не верь времени/граммам в ту же миллисекунду, когда state только стал Done. Не опрашивай MCP посреди слайса — движок убивается.
 
