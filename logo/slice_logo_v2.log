@@ -1,0 +1,1132 @@
+[2026-09-21 13:29:59.498] [warning] JSON setting 'reset_flow_duration' has no [default_]value!
+[2026-09-21 13:29:59.498] [debug] JSON setting 'reset_flow_duration': '{"enabled":"gradual_flow_enabled","value":2.0,"label":"Reset flow duration","description":"For any travel move longer than this value, the material flow is reset to the paths target flow","unit":"s","type":"float"}'
+[2026-09-21 13:29:59.637] [debug] Overlapping faces: face 19611 and face 19782.
+[2026-09-21 13:29:59.637] [warning] Mesh has overlapping faces!
+[2026-09-21 13:29:59.637] [debug] Overlapping faces: face 19782 and face 19611.
+[2026-09-21 13:29:59.637] [debug] Overlapping faces: face 19782 and face 19948.
+[2026-09-21 13:29:59.637] [debug] Overlapping faces: face 19782 and face 19950.
+[2026-09-21 13:29:59.637] [debug] Overlapping faces: face 19782 and face 20005.
+[2026-09-21 13:29:59.637] [debug] Overlapping faces: face 19782 and face 20023.
+[2026-09-21 13:29:59.637] [debug] Overlapping faces: face 19948 and face 19782.
+[2026-09-21 13:29:59.637] [debug] Overlapping faces: face 19950 and face 19782.
+[2026-09-21 13:29:59.637] [debug] Overlapping faces: face 20005 and face 19782.
+[2026-09-21 13:29:59.637] [debug] Overlapping faces: face 20023 and face 19782.
+[2026-09-21 13:29:59.639] [debug] Overlapping faces: face 25605 and face 25943.
+[2026-09-21 13:29:59.639] [debug] Overlapping faces: face 25943 and face 25605.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30341 and face 30349.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30341 and face 30956.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30342 and face 30349.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30342 and face 30956.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30343 and face 30349.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30343 and face 30956.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30346 and face 30344.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30346 and face 30381.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30346 and face 30978.
+[2026-09-21 13:29:59.640] [debug] Face 30349 has zero area!
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30349 and face 30342.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30349 and face 30375.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30349 and face 30389.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30349 and face 30390.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30349 and face 30404.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30349 and face 30405.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30349 and face 30926.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30349 and face 30933.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30349 and face 30941.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30349 and face 30943.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30349 and face 30949.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30349 and face 30951.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30349 and face 30956.
+[2026-09-21 13:29:59.640] [debug] Face 30349 has zero area!
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30349 and face 30341.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30349 and face 30343.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30349 and face 30950.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30349 and face 30956.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30349 and face 30979.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30389 and face 30349.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30389 and face 30956.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30390 and face 30349.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30390 and face 30956.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30404 and face 30349.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30404 and face 30956.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30405 and face 30349.
+[2026-09-21 13:29:59.640] [debug] Overlapping faces: face 30405 and face 30956.
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 30926 and face 30349.
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 30926 and face 30956.
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 30933 and face 30349.
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 30933 and face 30956.
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 30941 and face 30349.
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 30941 and face 30956.
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 30949 and face 30349.
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 30949 and face 30956.
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 30950 and face 30349.
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 30950 and face 30956.
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 30951 and face 30349.
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 30951 and face 30956.
+[2026-09-21 13:29:59.641] [debug] Face 30956 has zero area!
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 30956 and face 30341.
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 30956 and face 30343.
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 30956 and face 30349.
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 30956 and face 30950.
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 30956 and face 30979.
+[2026-09-21 13:29:59.641] [debug] Face 30956 has zero area!
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 30956 and face 30342.
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 30956 and face 30349.
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 30956 and face 30389.
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 30956 and face 30404.
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 30956 and face 30405.
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 30956 and face 30926.
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 30956 and face 30933.
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 30956 and face 30941.
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 30956 and face 30949.
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 30978 and face 30346.
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 30979 and face 30349.
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 30979 and face 30956.
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 31703 and face 31705.
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 31798 and face 31797.
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 31798 and face 31805.
+[2026-09-21 13:29:59.641] [debug] Overlapping faces: face 31805 and face 31798.
+[2026-09-21 13:29:59.642] [debug] Overlapping faces: face 34265 and face 35644.
+[2026-09-21 13:29:59.642] [debug] Overlapping faces: face 34910 and face 34908.
+[2026-09-21 13:29:59.642] [debug] Overlapping faces: face 34913 and face 34916.
+[2026-09-21 13:29:59.642] [debug] Overlapping faces: face 34932 and face 34996.
+[2026-09-21 13:29:59.642] [debug] Overlapping faces: face 34986 and face 34988.
+[2026-09-21 13:29:59.642] [debug] Overlapping faces: face 34988 and face 35456.
+[2026-09-21 13:29:59.642] [debug] Face 34996 has zero area!
+[2026-09-21 13:29:59.642] [debug] Overlapping faces: face 34996 and face 34932.
+[2026-09-21 13:29:59.642] [debug] Overlapping faces: face 34996 and face 35455.
+[2026-09-21 13:29:59.642] [debug] Overlapping faces: face 34996 and face 35513.
+[2026-09-21 13:29:59.642] [debug] Face 34996 has zero area!
+[2026-09-21 13:29:59.642] [debug] Overlapping faces: face 34996 and face 35017.
+[2026-09-21 13:29:59.642] [debug] Overlapping faces: face 34996 and face 35442.
+[2026-09-21 13:29:59.642] [debug] Overlapping faces: face 34996 and face 35456.
+[2026-09-21 13:29:59.642] [debug] Overlapping faces: face 34999 and face 35456.
+[2026-09-21 13:29:59.642] [debug] Overlapping faces: face 35000 and face 35456.
+[2026-09-21 13:29:59.642] [debug] Overlapping faces: face 35016 and face 35456.
+[2026-09-21 13:29:59.642] [debug] Overlapping faces: face 35017 and face 34996.
+[2026-09-21 13:29:59.642] [debug] Overlapping faces: face 35017 and face 35456.
+[2026-09-21 13:29:59.642] [debug] Overlapping faces: face 35072 and face 35419.
+[2026-09-21 13:29:59.643] [debug] Overlapping faces: face 35419 and face 35072.
+[2026-09-21 13:29:59.643] [debug] Overlapping faces: face 35440 and face 35456.
+[2026-09-21 13:29:59.643] [debug] Overlapping faces: face 35442 and face 34996.
+[2026-09-21 13:29:59.643] [debug] Overlapping faces: face 35442 and face 35456.
+[2026-09-21 13:29:59.643] [debug] Overlapping faces: face 35455 and face 34996.
+[2026-09-21 13:29:59.643] [debug] Face 35456 has zero area!
+[2026-09-21 13:29:59.643] [debug] Overlapping faces: face 35456 and face 34999.
+[2026-09-21 13:29:59.643] [debug] Overlapping faces: face 35456 and face 35000.
+[2026-09-21 13:29:59.643] [debug] Overlapping faces: face 35456 and face 35458.
+[2026-09-21 13:29:59.643] [debug] Face 35456 has zero area!
+[2026-09-21 13:29:59.643] [debug] Overlapping faces: face 35456 and face 34988.
+[2026-09-21 13:29:59.643] [debug] Overlapping faces: face 35456 and face 35016.
+[2026-09-21 13:29:59.643] [debug] Overlapping faces: face 35456 and face 35440.
+[2026-09-21 13:29:59.643] [debug] Face 35456 has zero area!
+[2026-09-21 13:29:59.643] [debug] Overlapping faces: face 35456 and face 34996.
+[2026-09-21 13:29:59.643] [debug] Overlapping faces: face 35456 and face 35017.
+[2026-09-21 13:29:59.643] [debug] Overlapping faces: face 35456 and face 35442.
+[2026-09-21 13:29:59.643] [debug] Overlapping faces: face 35458 and face 35456.
+[2026-09-21 13:29:59.643] [debug] Overlapping faces: face 35513 and face 34996.
+[2026-09-21 13:29:59.643] [debug] Overlapping faces: face 35515 and face 35513.
+[2026-09-21 13:29:59.643] [debug] Overlapping faces: face 35644 and face 34265.
+[2026-09-21 13:29:59.643] [debug] Overlapping faces: face 35725 and face 35726.
+[2026-09-21 13:29:59.643] [debug] Face 35726 has zero area!
+[2026-09-21 13:29:59.643] [debug] Overlapping faces: face 35726 and face 35725.
+[2026-09-21 13:29:59.643] [debug] Overlapping faces: face 35726 and face 35729.
+[2026-09-21 13:29:59.643] [debug] Overlapping faces: face 35726 and face 35730.
+[2026-09-21 13:29:59.643] [debug] Overlapping faces: face 35729 and face 35726.
+[2026-09-21 13:29:59.643] [debug] Overlapping faces: face 35730 and face 35726.
+[2026-09-21 13:29:59.644] [debug] Overlapping faces: face 39313 and face 39653.
+[2026-09-21 13:29:59.644] [debug] Overlapping faces: face 39378 and face 39388.
+[2026-09-21 13:29:59.644] [debug] Overlapping faces: face 39378 and face 39644.
+[2026-09-21 13:29:59.644] [debug] Overlapping faces: face 39378 and face 39651.
+[2026-09-21 13:29:59.644] [debug] Overlapping faces: face 39378 and face 40101.
+[2026-09-21 13:29:59.644] [debug] Overlapping faces: face 39378 and face 39653.
+[2026-09-21 13:29:59.644] [debug] Overlapping faces: face 39388 and face 39378.
+[2026-09-21 13:29:59.644] [debug] Overlapping faces: face 39643 and face 39653.
+[2026-09-21 13:29:59.644] [debug] Overlapping faces: face 39644 and face 39378.
+[2026-09-21 13:29:59.644] [debug] Overlapping faces: face 39651 and face 39378.
+[2026-09-21 13:29:59.644] [debug] Face 39653 has zero area!
+[2026-09-21 13:29:59.644] [debug] Overlapping faces: face 39653 and face 39643.
+[2026-09-21 13:29:59.644] [debug] Overlapping faces: face 39653 and face 40130.
+[2026-09-21 13:29:59.644] [debug] Face 39653 has zero area!
+[2026-09-21 13:29:59.644] [debug] Overlapping faces: face 39653 and face 39378.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 39653 and face 39385.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 39653 and face 39854.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40101 and face 39378.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40130 and face 39653.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40269 and face 40300.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40269 and face 40311.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40269 and face 40862.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40269 and face 40869.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40276 and face 40300.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40276 and face 40311.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40276 and face 40845.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40276 and face 40862.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40276 and face 40869.
+[2026-09-21 13:29:59.645] [debug] Face 40300 has zero area!
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40300 and face 40311.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40300 and face 40862.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40300 and face 40869.
+[2026-09-21 13:29:59.645] [debug] Face 40300 has zero area!
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40300 and face 40301.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40300 and face 40304.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40300 and face 40311.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40300 and face 40861.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40300 and face 40862.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40300 and face 40869.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40300 and face 40870.
+[2026-09-21 13:29:59.645] [debug] Face 40300 has zero area!
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40300 and face 40269.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40300 and face 40276.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40300 and face 40310.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40300 and face 40311.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40300 and face 40845.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40300 and face 40852.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40300 and face 40860.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40300 and face 40862.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40300 and face 40867.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40300 and face 40869.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40300 and face 40874.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40301 and face 40300.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40301 and face 40304.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40301 and face 40311.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40301 and face 40861.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40301 and face 40862.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40301 and face 40869.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40301 and face 40870.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40302 and face 40304.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40302 and face 40861.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40302 and face 40870.
+[2026-09-21 13:29:59.645] [debug] Face 40304 has zero area!
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40304 and face 40321.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40304 and face 40326.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40304 and face 40842.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40304 and face 40845.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40304 and face 40850.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40304 and face 40861.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40304 and face 40870.
+[2026-09-21 13:29:59.645] [debug] Face 40304 has zero area!
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40304 and face 40302.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40304 and face 40309.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40304 and face 40585.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40304 and face 40861.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40304 and face 40870.
+[2026-09-21 13:29:59.645] [debug] Face 40304 has zero area!
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40304 and face 40300.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40304 and face 40301.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40304 and face 40311.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40304 and face 40861.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40304 and face 40862.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40304 and face 40869.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40304 and face 40870.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40305 and face 40308.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40305 and face 40858.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40305 and face 40866.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40308 and face 40305.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40308 and face 40312.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40308 and face 40864.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40309 and face 40304.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40309 and face 40861.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40309 and face 40870.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40310 and face 40300.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40310 and face 40311.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40310 and face 40862.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40310 and face 40869.
+[2026-09-21 13:29:59.645] [debug] Face 40311 has zero area!
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40311 and face 40300.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40311 and face 40862.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40311 and face 40869.
+[2026-09-21 13:29:59.645] [debug] Face 40311 has zero area!
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40311 and face 40269.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40311 and face 40276.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40311 and face 40300.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40311 and face 40310.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40311 and face 40845.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40311 and face 40852.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40311 and face 40860.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40311 and face 40862.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40311 and face 40867.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40311 and face 40869.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40311 and face 40874.
+[2026-09-21 13:29:59.645] [debug] Face 40311 has zero area!
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40311 and face 40300.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40311 and face 40301.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40311 and face 40304.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40311 and face 40861.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40311 and face 40862.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40311 and face 40869.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40311 and face 40870.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40312 and face 40308.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40312 and face 40858.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40312 and face 40866.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40321 and face 40304.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40321 and face 40845.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40321 and face 40861.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40321 and face 40870.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40326 and face 40304.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40326 and face 40845.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40326 and face 40861.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40326 and face 40870.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40364 and face 40821.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40388 and face 40422.
+[2026-09-21 13:29:59.645] [debug] Face 40422 has zero area!
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40422 and face 40388.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40422 and face 40425.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40422 and face 40783.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40425 and face 40422.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40585 and face 40304.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40585 and face 40861.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40585 and face 40870.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40783 and face 40422.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40820 and face 40821.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40821 and face 40364.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40821 and face 40820.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40821 and face 40880.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40842 and face 40304.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40842 and face 40861.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40842 and face 40870.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40845 and face 40304.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40845 and face 40861.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40845 and face 40870.
+[2026-09-21 13:29:59.645] [debug] Face 40845 has zero area!
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40845 and face 40269.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40845 and face 40276.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40845 and face 40300.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40845 and face 40310.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40845 and face 40311.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40845 and face 40852.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40845 and face 40860.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40845 and face 40862.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40845 and face 40867.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40845 and face 40869.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40845 and face 40874.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40850 and face 40304.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40850 and face 40861.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40850 and face 40870.
+[2026-09-21 13:29:59.645] [debug] Overlapping faces: face 40852 and face 40300.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40852 and face 40311.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40852 and face 40862.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40852 and face 40869.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40860 and face 40300.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40860 and face 40311.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40860 and face 40845.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40860 and face 40862.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40860 and face 40869.
+[2026-09-21 13:29:59.646] [debug] Face 40861 has zero area!
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40861 and face 40304.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40861 and face 40321.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40861 and face 40326.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40861 and face 40842.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40861 and face 40845.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40861 and face 40850.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40861 and face 40870.
+[2026-09-21 13:29:59.646] [debug] Face 40861 has zero area!
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40861 and face 40302.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40861 and face 40304.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40861 and face 40309.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40861 and face 40585.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40861 and face 40870.
+[2026-09-21 13:29:59.646] [debug] Face 40861 has zero area!
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40861 and face 40300.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40861 and face 40301.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40861 and face 40304.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40861 and face 40311.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40861 and face 40862.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40861 and face 40869.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40861 and face 40870.
+[2026-09-21 13:29:59.646] [debug] Face 40862 has zero area!
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40862 and face 40300.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40862 and face 40311.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40862 and face 40869.
+[2026-09-21 13:29:59.646] [debug] Face 40862 has zero area!
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40862 and face 40300.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40862 and face 40301.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40862 and face 40304.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40862 and face 40311.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40862 and face 40861.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40862 and face 40869.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40862 and face 40870.
+[2026-09-21 13:29:59.646] [debug] Face 40862 has zero area!
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40862 and face 40269.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40862 and face 40276.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40862 and face 40300.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40862 and face 40310.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40862 and face 40311.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40862 and face 40845.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40862 and face 40852.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40862 and face 40860.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40862 and face 40867.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40862 and face 40869.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40862 and face 40874.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40867 and face 40300.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40867 and face 40311.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40867 and face 40845.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40867 and face 40862.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40867 and face 40869.
+[2026-09-21 13:29:59.646] [debug] Face 40869 has zero area!
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40869 and face 40300.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40869 and face 40311.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40869 and face 40862.
+[2026-09-21 13:29:59.646] [debug] Face 40869 has zero area!
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40869 and face 40269.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40869 and face 40276.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40869 and face 40300.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40869 and face 40310.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40869 and face 40311.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40869 and face 40845.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40869 and face 40852.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40869 and face 40860.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40869 and face 40862.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40869 and face 40867.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40869 and face 40874.
+[2026-09-21 13:29:59.646] [debug] Face 40869 has zero area!
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40869 and face 40300.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40869 and face 40301.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40869 and face 40304.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40869 and face 40311.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40869 and face 40861.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40869 and face 40862.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40869 and face 40870.
+[2026-09-21 13:29:59.646] [debug] Face 40870 has zero area!
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40870 and face 40304.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40870 and face 40321.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40870 and face 40326.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40870 and face 40842.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40870 and face 40845.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40870 and face 40850.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40870 and face 40861.
+[2026-09-21 13:29:59.646] [debug] Face 40870 has zero area!
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40870 and face 40300.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40870 and face 40301.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40870 and face 40304.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40870 and face 40311.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40870 and face 40861.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40870 and face 40862.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40870 and face 40869.
+[2026-09-21 13:29:59.646] [debug] Face 40870 has zero area!
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40870 and face 40302.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40870 and face 40304.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40870 and face 40309.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40870 and face 40585.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40870 and face 40861.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40874 and face 40300.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40874 and face 40311.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40874 and face 40845.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40874 and face 40862.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40874 and face 40869.
+[2026-09-21 13:29:59.646] [debug] Overlapping faces: face 40880 and face 40821.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 43696 and face 43698.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 43696 and face 43770.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44074 and face 44486.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44074 and face 44502.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44478 and face 44486.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44478 and face 44502.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44479 and face 44486.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44479 and face 44502.
+[2026-09-21 13:29:59.647] [debug] Face 44486 has zero area!
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44486 and face 44491.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44486 and face 44497.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44486 and face 44502.
+[2026-09-21 13:29:59.647] [debug] Face 44486 has zero area!
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44486 and face 44502.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44486 and face 44516.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44486 and face 44545.
+[2026-09-21 13:29:59.647] [debug] Face 44486 has zero area!
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44486 and face 44074.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44486 and face 44478.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44486 and face 44479.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44486 and face 44502.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44486 and face 44507.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44486 and face 44510.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44486 and face 44544.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44491 and face 44486.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44491 and face 44502.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44497 and face 44486.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44497 and face 44502.
+[2026-09-21 13:29:59.647] [debug] Face 44502 has zero area!
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44502 and face 44486.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44502 and face 44491.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44502 and face 44497.
+[2026-09-21 13:29:59.647] [debug] Face 44502 has zero area!
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44502 and face 44074.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44502 and face 44478.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44502 and face 44486.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44502 and face 44507.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44502 and face 44510.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44502 and face 44544.
+[2026-09-21 13:29:59.647] [debug] Face 44502 has zero area!
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44502 and face 44486.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44502 and face 44516.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44507 and face 44486.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44507 and face 44502.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44510 and face 44486.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44510 and face 44502.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44516 and face 44486.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44516 and face 44502.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44544 and face 44486.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44544 and face 44502.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44545 and face 44486.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44545 and face 44502.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44689 and face 44727.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44689 and face 44737.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44689 and face 45260.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44689 and face 45293.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44689 and face 44696.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44689 and face 44731.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44689 and face 45257.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44689 and face 45264.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44691 and face 44689.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44696 and face 44727.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44696 and face 44737.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44696 and face 45260.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44696 and face 45293.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44698 and face 44727.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44698 and face 44737.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44698 and face 45260.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44698 and face 45293.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44710 and face 44712.
+[2026-09-21 13:29:59.647] [debug] Face 44727 has zero area!
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44727 and face 44737.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44727 and face 45260.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44727 and face 45293.
+[2026-09-21 13:29:59.647] [debug] Face 44727 has zero area!
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44727 and face 44689.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44727 and face 44698.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44727 and face 44732.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44727 and face 44737.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44727 and face 45235.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44727 and face 45260.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44727 and face 45261.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44727 and face 45293.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44727 and face 45296.
+[2026-09-21 13:29:59.647] [debug] Face 44727 has zero area!
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44727 and face 44696.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44727 and face 44731.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44727 and face 44737.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44727 and face 45257.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44727 and face 45260.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44727 and face 45264.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44727 and face 45293.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44731 and face 44727.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44731 and face 44737.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44731 and face 45260.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44731 and face 45293.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44732 and face 44727.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44732 and face 44737.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44732 and face 45260.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44732 and face 45293.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44736 and face 44748.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44736 and face 45221.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44736 and face 45256.
+[2026-09-21 13:29:59.647] [debug] Face 44737 has zero area!
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44737 and face 44727.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44737 and face 45260.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44737 and face 45293.
+[2026-09-21 13:29:59.647] [debug] Face 44737 has zero area!
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44737 and face 44689.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44737 and face 44698.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44737 and face 44727.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44737 and face 44732.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44737 and face 45235.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44737 and face 45260.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44737 and face 45261.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44737 and face 45293.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44737 and face 45296.
+[2026-09-21 13:29:59.647] [debug] Face 44737 has zero area!
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44737 and face 44696.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44737 and face 44727.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44737 and face 44731.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44737 and face 45257.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44737 and face 45260.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44737 and face 45264.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44737 and face 45293.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44748 and face 44736.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44748 and face 45246.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44748 and face 45247.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44768 and face 44712.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44774 and face 44776.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44774 and face 45225.
+[2026-09-21 13:29:59.647] [debug] Overlapping faces: face 44776 and face 44774.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45235 and face 44727.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45235 and face 44737.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45235 and face 45260.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45235 and face 45293.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45246 and face 44748.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45246 and face 45221.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45246 and face 45256.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45257 and face 44689.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45257 and face 44727.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45257 and face 44737.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45257 and face 45260.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45257 and face 45293.
+[2026-09-21 13:29:59.648] [debug] Face 45260 has zero area!
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45260 and face 44727.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45260 and face 44737.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45260 and face 45293.
+[2026-09-21 13:29:59.648] [debug] Face 45260 has zero area!
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45260 and face 44696.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45260 and face 44727.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45260 and face 44731.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45260 and face 44737.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45260 and face 45257.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45260 and face 45264.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45260 and face 45293.
+[2026-09-21 13:29:59.648] [debug] Face 45260 has zero area!
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45260 and face 44689.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45260 and face 44698.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45260 and face 44727.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45260 and face 44732.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45260 and face 44737.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45260 and face 45235.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45260 and face 45261.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45260 and face 45293.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45260 and face 45296.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45261 and face 44727.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45261 and face 44737.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45261 and face 45260.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45261 and face 45293.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45264 and face 44689.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45264 and face 44727.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45264 and face 44737.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45264 and face 45260.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45264 and face 45293.
+[2026-09-21 13:29:59.648] [debug] Face 45293 has zero area!
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45293 and face 44727.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45293 and face 44737.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45293 and face 45260.
+[2026-09-21 13:29:59.648] [debug] Face 45293 has zero area!
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45293 and face 44696.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45293 and face 44727.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45293 and face 44731.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45293 and face 44737.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45293 and face 45257.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45293 and face 45260.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45293 and face 45264.
+[2026-09-21 13:29:59.648] [debug] Face 45293 has zero area!
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45293 and face 44689.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45293 and face 44698.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45293 and face 44727.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45293 and face 44732.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45293 and face 44737.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45293 and face 45235.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45293 and face 45260.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45293 and face 45261.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45293 and face 45296.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45296 and face 44727.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45296 and face 44737.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45296 and face 45260.
+[2026-09-21 13:29:59.648] [debug] Overlapping faces: face 45296 and face 45293.
+[2026-09-21 13:29:59.649] [debug] Face 48063 has zero area!
+[2026-09-21 13:29:59.649] [debug] Overlapping faces: face 48063 and face 48458.
+[2026-09-21 13:29:59.649] [debug] Overlapping faces: face 48063 and face 48692.
+[2026-09-21 13:29:59.649] [debug] Overlapping faces: face 48063 and face 48706.
+[2026-09-21 13:29:59.649] [debug] Overlapping faces: face 48158 and face 48588.
+[2026-09-21 13:29:59.649] [debug] Overlapping faces: face 48158 and face 48615.
+[2026-09-21 13:29:59.649] [debug] Overlapping faces: face 48165 and face 48163.
+[2026-09-21 13:29:59.649] [debug] Overlapping faces: face 48194 and face 48163.
+[2026-09-21 13:29:59.649] [debug] Overlapping faces: face 48333 and face 48347.
+[2026-09-21 13:29:59.649] [debug] Face 48347 has zero area!
+[2026-09-21 13:29:59.649] [debug] Overlapping faces: face 48347 and face 48333.
+[2026-09-21 13:29:59.649] [debug] Overlapping faces: face 48347 and face 48402.
+[2026-09-21 13:29:59.649] [debug] Overlapping faces: face 48347 and face 48466.
+[2026-09-21 13:29:59.649] [debug] Overlapping faces: face 48402 and face 48347.
+[2026-09-21 13:29:59.649] [debug] Overlapping faces: face 48458 and face 48063.
+[2026-09-21 13:29:59.649] [debug] Overlapping faces: face 48466 and face 48347.
+[2026-09-21 13:29:59.649] [debug] Overlapping faces: face 48692 and face 48063.
+[2026-09-21 13:29:59.649] [debug] Overlapping faces: face 48706 and face 48063.
+[2026-09-21 13:29:59.649] [debug] Overlapping faces: face 49006 and face 49073.
+[2026-09-21 13:29:59.649] [debug] Overlapping faces: face 49006 and face 49601.
+[2026-09-21 13:29:59.649] [debug] Overlapping faces: face 49025 and face 49027.
+[2026-09-21 13:29:59.649] [debug] Overlapping faces: face 49025 and face 49084.
+[2026-09-21 13:29:59.649] [debug] Overlapping faces: face 49482 and face 49122.
+[2026-09-21 13:29:59.649] [debug] Overlapping faces: face 49497 and face 49122.
+[2026-09-21 13:29:59.649] [debug] Overlapping faces: face 49601 and face 49006.
+[2026-09-21 13:29:59.650] [debug] Overlapping faces: face 52533 and face 52481.
+[2026-09-21 13:29:59.650] [debug] Overlapping faces: face 52545 and face 53086.
+[2026-09-21 13:29:59.650] [debug] Overlapping faces: face 52838 and face 52860.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53411 and face 53460.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53411 and face 53986.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53411 and face 53990.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53414 and face 53460.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53414 and face 53986.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53414 and face 53990.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53420 and face 53460.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53420 and face 53986.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53420 and face 53990.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53421 and face 53460.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53421 and face 53986.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53421 and face 53990.
+[2026-09-21 13:29:59.651] [debug] Face 53460 has zero area!
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53460 and face 53421.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53460 and face 53986.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53460 and face 53990.
+[2026-09-21 13:29:59.651] [debug] Face 53460 has zero area!
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53460 and face 53414.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53460 and face 53420.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53460 and face 53454.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53460 and face 53462.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53460 and face 53965.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53460 and face 53972.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53460 and face 53980.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53460 and face 53982.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53460 and face 53986.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53460 and face 53987.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53460 and face 53990.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53460 and face 54014.
+[2026-09-21 13:29:59.651] [debug] Face 53460 has zero area!
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53460 and face 53461.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53460 and face 53470.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53460 and face 53966.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53460 and face 53986.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53460 and face 53990.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53461 and face 53460.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53461 and face 53986.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53461 and face 53990.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53461 and face 53972.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53461 and face 53980.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53965 and face 53460.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53965 and face 53986.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53965 and face 53990.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53966 and face 53460.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53966 and face 53986.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53966 and face 53990.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53972 and face 53461.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53972 and face 53470.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53980 and face 53460.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53980 and face 53986.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53980 and face 53990.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53982 and face 53460.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53982 and face 53986.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53982 and face 53990.
+[2026-09-21 13:29:59.651] [debug] Face 53986 has zero area!
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53986 and face 53421.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53986 and face 53460.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53986 and face 53990.
+[2026-09-21 13:29:59.651] [debug] Face 53986 has zero area!
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53986 and face 53460.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53986 and face 53990.
+[2026-09-21 13:29:59.651] [debug] Face 53986 has zero area!
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53986 and face 53411.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53986 and face 53420.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53986 and face 53460.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53986 and face 53990.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53987 and face 53460.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53987 and face 53986.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53987 and face 53990.
+[2026-09-21 13:29:59.651] [debug] Face 53990 has zero area!
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53990 and face 53421.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53990 and face 53460.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53990 and face 53986.
+[2026-09-21 13:29:59.651] [debug] Face 53990 has zero area!
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53990 and face 53414.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53990 and face 53420.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53990 and face 53454.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53990 and face 53460.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53990 and face 53462.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53990 and face 53965.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53990 and face 53972.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53990 and face 53980.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53990 and face 53982.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53990 and face 53986.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53990 and face 53987.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53990 and face 54014.
+[2026-09-21 13:29:59.651] [debug] Face 53990 has zero area!
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53990 and face 53460.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53990 and face 53461.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53990 and face 53470.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53990 and face 53966.
+[2026-09-21 13:29:59.651] [debug] Overlapping faces: face 53990 and face 53986.
+[2026-09-21 13:29:59.652] [debug] Overlapping faces: face 57801 and face 57799.
+[2026-09-21 13:29:59.652] [debug] Overlapping faces: face 57801 and face 58398.
+[2026-09-21 13:29:59.652] [debug] Overlapping faces: face 57801 and face 58427.
+[2026-09-21 13:29:59.652] [debug] Overlapping faces: face 57818 and face 58326.
+[2026-09-21 13:29:59.653] [debug] Face 58326 has zero area!
+[2026-09-21 13:29:59.653] [debug] Overlapping faces: face 58326 and face 57818.
+[2026-09-21 13:29:59.653] [debug] Overlapping faces: face 58427 and face 57801.
+[2026-09-21 13:29:59.653] [debug] Overlapping faces: face 58427 and face 58431.
+[2026-09-21 13:29:59.653] [debug] Overlapping faces: face 58442 and face 58326.
+[2026-09-21 13:29:59.653] [debug] Overlapping faces: face 58494 and face 58498.
+[2026-09-21 13:29:59.653] [debug] Face 58498 has zero area!
+[2026-09-21 13:29:59.653] [debug] Overlapping faces: face 58498 and face 58494.
+[2026-09-21 13:29:59.653] [debug] Overlapping faces: face 58498 and face 58502.
+[2026-09-21 13:29:59.653] [debug] Overlapping faces: face 58498 and face 58577.
+[2026-09-21 13:29:59.653] [debug] Overlapping faces: face 58502 and face 58498.
+[2026-09-21 13:29:59.653] [debug] Overlapping faces: face 58577 and face 58498.
+[2026-09-21 13:29:59.654] [debug] Overlapping faces: face 62430 and face 63109.
+[2026-09-21 13:29:59.654] [debug] Overlapping faces: face 62491 and face 63109.
+[2026-09-21 13:29:59.654] [debug] Overlapping faces: face 62817 and face 63160.
+[2026-09-21 13:29:59.654] [debug] Overlapping faces: face 63076 and face 63025.
+[2026-09-21 13:29:59.654] [debug] Overlapping faces: face 63109 and face 62430.
+[2026-09-21 13:29:59.654] [debug] Overlapping faces: face 63109 and face 62491.
+[2026-09-21 13:29:59.658] [info] loading 'c:\workspaces\some projects\Igorsaha\Printer\logo.stl' took 0.159 seconds
+[2026-09-21 13:29:59.660] [info] Loaded from disk in 0.1687214s
+
+[2026-09-21 13:29:59.661] [info] All settings:  -s material_type="" -s infill_line_width="0.42" -s support_material_flow="100.000000" -s mold_angle="40.000000" -s build_volume_fan_nr="0.000000" -s meshfix_extensive_stitching="true" -s support_bottom_line_distance="0.400000" -s machine_show_variants="false" -s anti_overhang_mesh="false" -s machine_max_acceleration_e="10000.000000" -s support_roof_wall_count="0.000000" -s machine_name="Unknown" -s material_crystallinity="false" -s support_bottom_stair_step_width="5.000000" -s support_xy_distance="0.700000" -s meshfix_fluid_motion_shift_distance="0.100000" -s machine_max_feedrate_e="299792458000.000000" -s material_brand="" -s extruder_prime_pos_x="0.000000" -s magic_spiralize="false" -s machine_start_gcode="G28 ; Home all axes\nG29 ; Auto bed leveling\nG92 E0 ; Reset Extruder\nG1 Z2.0 F3000 ; Move Z Axis up\nG1 X10.1 Y20 Z0.28 F5000.0 ; Move to start position\nG1 X10.1 Y200.0 Z0.28 F1500.0 E15 ; Draw the first line\nG1 X10.4 Y200.0 Z0.28 F5000.0 ; Move to side a little\nG1 X10.4 Y20 Z0.28 F1500.0 E30 ; Draw the second line\nG92 E0 ; Reset Extruder\nG1 Z2.0 F3000 ; Move Z Axis up\n" -s machine_end_gcode="G91 ; Relative positioning\nG1 E-2 F2700 ; Retract the filament\nG1 Z10 F3000 ; Move Z up 10mm\nG90 ; Absolute positioning\nG1 X0 Y300 F3000 ; Present print\nM104 S0 ; Turn off extruder heating\nM140 S0 ; Turn off bed heating\nM106 S0 ; Turn off cooling fan\nM84 ; Disable steppers\n" -s machine_heated_bed="true" -s raft_base_fan_speed="0.000000" -s skin_line_width="0.4" -s material_guid="" -s material_diameter="1.75" -s raft_interface_speed="15.000000" -s machine_steps_per_mm_e="1600.000000" -s sub_div_rad_add="0.400000" -s material_bed_temp_wait="true" -s material_print_temp_wait="true" -s extruder_prime_pos_z="0.000000" -s retraction_prime_speed="30" -s print_sequence="all_at_once" -s flow_rate_extrusion_offset_factor="100.000000" -s prime_tower_enable="false" -s machine_nozzle_temp_enabled="true" -s material_break_speed="25.000000" -s material_print_temp_prepend="true" -s machine_shape="rectangular" -s support_mesh="false" -s machine_depth="360" -s material_bed_temp_prepend="true" -s acceleration_wall_x_flooring="3000.000000" -s cool_fan_speed_min="100.000000" -s machine_nozzle_tip_outer_diameter="1.000000" -s support_tree_angle="60.000000" -s machine_width="360" -s machine_height="360" -s gradual_infill_steps="0" -s machine_max_acceleration_y="9000.000000" -s support_tree_top_rate="15.000000" -s machine_steps_per_mm_z="50.000000" -s machine_extruders_share_nozzle="false" -s machine_buildplate_type="glass" -s machine_heated_build_volume="false" -s prime_tower_max_bridging_distance="5.000000" -s wall_overhang_angle="90.000000" -s machine_endstop_positive_direction_y="false" -s support_tower_maximum_supported_diameter="3.000000" -s machine_always_write_active_tool="false" -s machine_max_feedrate_y="299792458000.000000" -s layer_0_max_flow_acceleration="1.000000" -s meshfix_maximum_travel_resolution="1.000000" -s machine_center_is_zero="false" -s skirt_brim_extruder_nr="-1" -s initial_bottom_layers="6.000000" -s switch_extruder_retraction_amount="20.000000" -s machine_extruder_count="1" -s machine_min_cool_heat_time_window="50.000000" -s interlocking_beam_width="0.800000" -s extruders_enabled_count="1" -s material_break_temperature="50.000000" -s machine_nozzle_expansion_angle="45.000000" -s material_bed_temperature="58" -s machine_heat_zone_length="16.000000" -s machine_nozzle_heat_up_speed="2.000000" -s min_feature_size="0.100000" -s machine_nozzle_cool_down_speed="2.000000" -s machine_steps_per_mm_x="50.000000" -s material_shrinkage_percentage_xy="100.000000" -s machine_gcode_flavor="RepRap (Marlin/Sprinter)" -s gantry_height="99999999999.000000" -s machine_firmware_retract="false" -s small_skin_on_surface="true" -s machine_steps_per_mm_y="50.000000" -s machine_extruders_share_heater="false" -s machine_endstop_positive_direction_x="false" -s machine_extruders_shared_nozzle_initial_retraction="0.000000" -s support_brim_line_count="3.000000" -s machine_disallowed_areas="[]" -s nozzle_disallowed_areas="[]" -s machine_head_with_fans_polygon="[[-20.000000,10.000000],[10.000000,10.000000],[10.000000,-10.000000],[-20.000000,-10.000000]]" -s skirt_brim_line_width="0.400000" -s machine_max_feedrate_x="299792458000.000000" -s flow_rate_max_extrusion_offset="0.000000" -s machine_nozzle_id="unknown" -s machine_use_extruder_offset_to_offset_coords="true" -s machine_nozzle_size="0.4" -s raft_base_jerk="20.000000" -s minimum_support_area="0.000000" -s machine_acceleration="4000.000000" -s z_seam_x="100.000000" -s ironing_inset="0.350000" -s raft_base_flow="100.000000" -s top_bottom_extruder_nr="-1" -s adhesion_type="brim" -s machine_start_gcode_first="false" -s minimum_roof_area="1.000000" -s extruder_prime_pos_abs="false" -s speed_topbottom="22" -s machine_max_feedrate_z="299792458000.000000" -s machine_max_jerk_z="0.400000" -s support_roof_enable="false" -s raft_base_line_spacing="1.600000" -s machine_max_acceleration_x="9000.000000" -s machine_max_acceleration_z="100.000000" -s acceleration_support_bottom="3000.000000" -s machine_max_jerk_xy="20.000000" -s mesh_position_y="180" -s machine_max_jerk_e="5.000000" -s machine_endstop_positive_direction_z="true" -s machine_minimum_feedrate="0.000000" -s machine_feeder_wheel_diameter="10.000000" -s wall_x_material_flow_roofing="100.000000" -s skirt_height="3.000000" -s jerk_print_layer_0="20.000000" -s machine_scale_fan_speed_zero_to_one="false" -s layer_height="0.2" -s meshfix_keep_open_polygons="true" -s layer_height_0="0.3" -s initial_layer_line_width_factor="100.000000" -s acceleration_support_roof="3000.000000" -s wall_line_width_0="0.400000" -s wall_line_width_x="0.400000" -s support_line_width="0.400000" -s remove_empty_first_layers="true" -s support_roof_line_width="0.400000" -s support_bottom_line_width="0.400000" -s ooze_shield_angle="60.000000" -s prime_tower_line_width="0.400000" -s roofing_monotonic="true" -s material_is_support_material="false" -s speed_equalize_flow_width_factor="100.000000" -s top_bottom_thickness="1.6" -s wall_0_extruder_nr="-1" -s lightning_infill_overhang_angle="40.000000" -s wall_x_extruder_nr="-1" -s support_roof_height="1.000000" -s prime_tower_mode="normal" -s wall_line_count="3" -s group_outer_walls="true" -s jerk_travel_enabled="true" -s raft_interface_line_width="0.700000" -s wall_transition_length="0.400000" -s acceleration_travel="5000.000000" -s interlocking_depth="2.000000" -s wall_distribution_count="1.000000" -s ooze_shield_enabled="false" -s wall_transition_angle="10.000000" -s meshfix_maximum_deviation="0.025000" -s wall_transition_filter_distance="100.000000" -s wall_transition_filter_deviation="0.100000" -s wall_0_wipe_dist="0.200000" -s material_break_preparation_retracted_position="-16.000000" -s skirt_brim_minimal_length="250.000000" -s raft_base_infill_overlap_mm="0.000000" -s wall_0_inset="0.000000" -s flooring_extruder_nr="-1" -s optimize_wall_printing_order="true" -s support_infill_angles="[45, 135]" -s inset_direction="inside_out" -s alternate_extra_perimeter="false" -s material_bed_temperature_layer_0="60" -s magic_fuzzy_skin_enabled="false" -s cross_infill_density_image="" -s min_even_wall_line_width="0.300000" -s switch_extruder_extra_prime_amount="0.000000" -s coasting_volume="0.064000" -s min_odd_wall_line_width="0.300000" -s fill_outline_gaps="true" -s raft_interface_line_spacing="0.900000" -s meshfix_union_all="true" -s min_bead_width="0.200000" -s support_line_distance="2.660000" -s xy_offset="0.000000" -s speed_wall_0_flooring="30.000000" -s speed_wall="30" -s xy_offset_layer_0="0.000000" -s skin_material_flow="105" -s hole_xy_offset="0.000000" -s support_tower_diameter="3.000000" -s hole_xy_offset_max_diameter="0.000000" -s z_seam_type="sharpest_corner" -s z_seam_on_vertex="false" -s raft_surface_extruder_nr="0" -s support_tree_branch_diameter="5.000000" -s z_seam_y="100.000000" -s lightning_infill_straightening_angle="40.000000" -s z_seam_corner="z_seam_corner_inner" -s raft_interface_infill_overlap_mm="0.000000" -s ppr_enable="false" -s retraction_count_max="90.000000" -s retraction_combing_max_distance="0.000000" -s z_seam_relative="false" -s skin_outline_count="2" -s roofing_extruder_nr="-1" -s acceleration_wall_x_roofing="3000.000000" -s speed_travel_layer_0="80" -s infill_support_angle="40.000000" -s multiple_mesh_overlap="0.150000" -s roofing_line_width="0.400000" -s infill_offset_x="0.000000" -s wall_0_end_speed_ratio="100.000000" -s roofing_pattern="lines" -s roofing_angles="[45, 135]" -s jerk_wall_x_flooring="20.000000" -s jerk_travel_layer_0="20.000000" -s flooring_line_width="0.400000" -s support_top_distance="0.100000" -s flooring_pattern="lines" -s infill_overlap_mm="0.040000" -s flooring_monotonic="true" -s bridge_wall_material_flow="50.000000" -s minimum_polygon_circumference="1.000000" -s flooring_angles="[45, 135]" -s gradual_infill_step_height="1.500000" -s top_layers="8" -s bottom_layers="5" -s extra_infill_lines_to_support_skins="walls" -s material_extrusion_cool_down_speed="0.700000" -s material_break_retracted_position="-50.000000" -s top_bottom_pattern="lines" -s cool_min_layer_time_overhang_min_segment_length="5.000000" -s top_bottom_pattern_0="lines" -s acceleration_roofing="3000.000000" -s raft_base_extruder_nr="0" -s connect_skin_polygons="true" -s skin_monotonic="true" -s raft_interface_margin="15.000000" -s skin_angles="[45, 135]" -s jerk_wall_x="20.000000" -s small_skin_width="1.000000" -s speed_z_hop="10.000000" -s skin_no_small_gaps_heuristic="false" -s ironing_enabled="false" -s interlocking_orientation="22.500000" -s raft_interface_flow="100.000000" -s ironing_only_highest_layer="false" -s ironing_pattern="zigzag" -s ironing_monotonic="false" -s ironing_line_spacing="0.100000" -s support_infill_extruder_nr="0" -s ironing_flow="10.000000" -s speed_ironing="20.000000" -s support_tree_rest_preference="buildplate" -s acceleration_ironing="3000.000000" -s jerk_ironing="20.000000" -s skin_overlap_mm="0.020000" -s bottom_skin_expand_distance="1.000000" -s top_skin_preshrink="1.000000" -s bottom_skin_preshrink="1.000000" -s top_skin_expand_distance="1.000000" -s min_skin_width_for_expansion="0.000000" -s acceleration_wall_0_flooring="3000.000000" -s bridge_sparse_infill_max_density="0.000000" -s infill_extruder_nr="-1" -s infill_line_distance="2.8" -s retraction_combing="noskin" -s conical_overhang_hole_size="0.000000" -s jerk_travel="30.000000" -s support_roof_extruder_nr="0" -s infill_pattern="grid" -s zig_zaggify_infill="true" -s support_roof_angles="[ ]" -s brim_gap="0.000000" -s cool_min_layer_time_fan_speed_max="10.000000" -s prime_blob_enable="false" -s support_structure="normal" -s connect_infill_polygons="true" -s jerk_support_roof="20.000000" -s infill_angles="[45, 135]" -s support_bottom_offset="0.000000" -s support_tree_branch_diameter_angle="7.000000" -s infill_offset_y="0.000000" -s infill_randomize_start_location="false" -s support_z_seam_min_distance="0.800000" -s infill_multiplier="1.000000" -s acceleration_prime_tower="3000.000000" -s infill_wall_line_count="1" -s infill_wipe_dist="0.040000" -s infill_sparse_thickness="0.100000" -s support_supported_skin_fan_speed="100.000000" -s infill_before_walls="true" -s min_infill_area="0.000000" -s draft_shield_dist="10.000000" -s infill_support_enabled="false" -s wipe_pause="0.000000" -s skin_edge_support_layers="4" -s material_standby_temperature="150.000000" -s lightning_infill_prune_angle="40.000000" -s support_bottom_material_flow="100.000000" -s default_material_print_temperature="210.000000" -s build_volume_temperature="0.000000" -s material_print_temperature="210" -s material_end_of_filament_purge_speed="0.500000" -s material_print_temperature_layer_0="215" -s material_initial_print_temperature="200.000000" -s bridge_skin_speed_3="15.000000" -s seam_overhang_angle="90.000000" -s mold_width="5.000000" -s material_final_print_temperature="195.000000" -s default_material_bed_temperature="60.000000" -s small_feature_max_length="0.000000" -s material_adhesion_tendency="10.000000" -s material_no_load_move_factor="0.940860" -s user_defined_print_order_enabled="false" -s mesh_position_x="180" -s print_temp_anomaly_limit="7.000000" -s zig_zaggify_support="false" -s material_surface_energy="100.000000" -s material_shrinkage_percentage_z="100.000000" -s material_anti_ooze_retracted_position="-4.000000" -s jerk_topbottom="20.000000" -s material_anti_ooze_retraction_speed="5.000000" -s wall_0_material_flow_flooring="100.000000" -s speed_support_bottom="40.000000" -s material_break_preparation_speed="2.000000" -s material_break_preparation_temperature="50.000000" -s material_flush_purge_speed="0.500000" -s material_flush_purge_length="60.000000" -s draft_shield_height="10.000000" -s material_end_of_filament_purge_length="20.000000" -s mold_roof_height="0.500000" -s raft_surface_line_width="0.400000" -s material_maximum_park_duration="300.000000" -s skirt_brim_speed="30.000000" -s bridge_wall_min_length="5.000000" -s coasting_speed="90.000000" -s wall_0_material_flow="100.000000" -s gradual_flow_discretisation_step_size="0.200000" -s support_bottom_stair_step_height="0.300000" -s raft_base_smoothing="5.000000" -s wall_x_material_flow="100.000000" -s wall_0_material_flow_roofing="100.000000" -s support_roof_pattern="concentric" -s wall_x_material_flow_flooring="100.000000" -s roofing_material_flow="100.000000" -s travel_avoid_supports="false" -s flooring_material_flow="100.000000" -s infill_material_flow="100" -s wall_0_material_flow_layer_0="100.000000" -s infill_mesh_order="0.000000" -s skirt_brim_material_flow="100.000000" -s support_roof_material_flow="100.000000" -s prime_tower_flow="100.000000" -s raft_interface_z_offset="0.000000" -s speed_infill="45" -s material_flow_layer_0="100.000000" -s raft_surface_fan_speed="0.000000" -s wall_x_material_flow_layer_0="100.000000" -s wipe_hop_enable="true" -s skin_material_flow_layer_0="100.000000" -s gradual_flow_enabled="false" -s cool_fan_enabled="true" -s max_flow_acceleration="1.000000" -s material_pressure_advance_factor="0.050000" -s acceleration_enabled="false" -s speed_slowdown_layers="2.000000" -s draft_shield_enabled="false" -s speed_wall_0="25" -s brim_line_count="10" -s speed_wall_x="30" -s support_offset="0.800000" -s prime_tower_wipe_enabled="true" -s draft_shield_height_limitation="full" -s speed_wall_0_roofing="30.000000" -s coasting_min_volume="0.800000" -s acceleration_travel_layer_0="3000.000000" -s speed_wall_x_roofing="60.000000" -s speed_support_roof="40.000000" -s speed_wall_x_flooring="60.000000" -s speed_roofing="20" -s brim_inside_margin="1.6" -s speed_flooring="25.000000" -s mesh_position_z="-4.492" -s speed_support_infill="60.000000" -s jerk_roofing="20.000000" -s speed_prime_tower="60.000000" -s speed_travel="120" -s speed_print_layer_0="30.000000" -s cool_fan_speed_0="0" -s infill_enable_travel_optimization="false" -s acceleration_travel_enabled="true" -s acceleration_infill="3000.000000" -s acceleration_wall_0="3000.000000" -s acceleration_wall_x="3000.000000" -s acceleration_wall_0_roofing="3000.000000" -s acceleration_flooring="3000.000000" -s small_feature_speed_factor_0="50.000000" -s acceleration_topbottom="3000.000000" -s raft_base_line_width="0.800000" -s raft_surface_infill_overlap_mm="0.000000" -s acceleration_support_infill="3000.000000" -s acceleration_print_layer_0="3000.000000" -s acceleration_skirt_brim="3000.000000" -s meshfix_fluid_motion_enabled="true" -s jerk_enabled="false" -s jerk_infill="20.000000" -s material_flow_temp_graph="[[3.5, 200],[7.0, 240]]" -s jerk_wall_0="20.000000" -s retraction_retract_speed="40" -s jerk_wall_0_roofing="20.000000" -s jerk_wall_x_roofing="20.000000" -s jerk_wall_0_flooring="20.000000" -s jerk_flooring="20.000000" -s support_conical_angle="30.000000" -s jerk_support_infill="20.000000" -s raft_surface_thickness="0.100000" -s jerk_support_bottom="20.000000" -s wall_0_speed_split_distance="1.000000" -s jerk_prime_tower="20.000000" -s jerk_skirt_brim="20.000000" -s layer_start_x="0.000000" -s magic_mesh_surface_mode="normal" -s retraction_enable="true" -s retraction_extra_prime_amount="0.04" -s bv_temp_warn_limit="7.500000" -s retract_at_layer_change="false" -s retraction_amount="4.5" -s support_join_distance="2.000000" -s infill_mesh="false" -s retraction_min_travel="1.2" -s retraction_extrusion_window="4.500000" -s retraction_combing_avoid_distance="0.000000" -s travel_retract_before_outer_wall="false" -s travel_avoid_other_parts="true" -s travel_avoid_distance="0.625000" -s layer_start_y="0.000000" -s retraction_hop_enabled="false" -s support_tree_min_height_to_model="3.000000" -s retraction_hop_only_when_collides="false" -s retraction_hop="1.000000" -s retraction_hop_after_extruder_switch="true" -s retraction_hop_after_extruder_switch_height="1.000000" -s support_interface_priority="interface_area_overwrite_support_area" -s build_fan_full_layer="0.000000" -s cool_fan_speed_max="100.000000" -s cool_fan_full_layer="2.000000" -s support_meshes_present="false" -s cool_min_layer_time="8" -s cool_min_speed="10.000000" -s cool_lift_head="false" -s cool_min_temperature="0.000000" -s cool_during_extruder_switch="unchanged" -s raft_base_margin="15.000000" -s raft_base_speed="15.000000" -s support_enable="false" -s support_bottom_enable="false" -s support_extruder_nr_layer_0="0" -s bridge_skin_density="100.000000" -s support_bottom_extruder_nr="0" -s bridge_skin_density_2="75.000000" -s support_tree_max_diameter="25.000000" -s support_type="everywhere" -s skirt_line_count="1.000000" -s conical_overhang_enabled="false" -s support_tree_angle_slow="50.000000" -s support_tree_max_diameter_increase_by_merges_when_support_to_model="1.000000" -s support_tree_bp_diameter="7.500000" -s coasting_enable="false" -s support_tree_tip_diameter="0.400000" -s support_tree_limit_branch_reach="true" -s support_initial_layer_line_distance="2.660000" -s support_tree_branch_reach_limit="30.000000" -s support_angle="50.000000" -s skin_edge_support_thickness="0.8" -s support_pattern="zigzag" -s support_wall_count="1.000000" -s support_bottom_wall_count="0.000000" -s switch_extruder_prime_speed="20.000000" -s meshfix_fluid_motion_angle="15.000000" -s support_connect_zigzags="true" -s support_infill_density_multiplier_initial_layer="1.000000" -s raft_base_thickness="0.300000" -s support_brim_enable="true" -s support_bottom_distance="0.100000" -s support_xy_overrides_z="z_overrides_xy" -s support_xy_distance_overhang="0.200000" -s support_bottom_stair_step_min_slope="10.000000" -s raft_surface_jerk="20.000000" -s switch_extruder_retraction_speed="20.000000" -s support_infill_sparse_thickness="0.100000" -s gradual_support_infill_steps="0.000000" -s gradual_support_infill_step_height="1.000000" -s support_bottom_height="1.000000" -s support_roof_line_distance="0.400000" -s support_bottom_pattern="concentric" -s minimum_bottom_area="1.000000" -s raft_surface_layers="2.000000" -s support_roof_offset="0.000000" -s ooze_shield_dist="2.000000" -s mold_enabled="false" -s raft_surface_line_spacing="0.400000" -s raft_base_acceleration="3000.000000" -s support_bottom_angles="[ ]" -s support_fan_enable="false" -s prime_tower_position_y="200.000000" -s support_use_towers="true" -s support_tower_roof_angle="65.000000" -s support_mesh_drop_down="true" -s extruder_prime_pos_y="0.000000" -s raft_interface_wall_count="0.000000" -s raft_interface_extruder_nr="0" -s skirt_gap="3.000000" -s brim_replaces_support="true" -s brim_location="outside" -s brim_smart_ordering="true" -s raft_surface_margin="15.000000" -s raft_base_remove_inside_corners="false" -s raft_interface_remove_inside_corners="false" -s raft_surface_remove_inside_corners="false" -s raft_interface_smoothing="5.000000" -s raft_surface_smoothing="5.000000" -s raft_airgap="0.300000" -s raft_surface_z_offset="0.000000" -s raft_interface_fan_speed="0.000000" -s wipe_move_distance="20.000000" -s layer_0_z_overlap="0.220000" -s raft_interface_layers="1.000000" -s raft_surface_acceleration="3000.000000" -s raft_interface_thickness="0.150000" -s raft_surface_monotonic="false" -s bottom_thickness="1.0" -s flow_anomaly_limit="25.000000" -s adaptive_layer_height_enabled="false" -s raft_base_wall_count="1.000000" -s raft_surface_wall_count="0.000000" -s raft_surface_speed="20.000000" -s raft_interface_acceleration="3000.000000" -s raft_interface_jerk="20.000000" -s raft_surface_flow="100.000000" -s prime_tower_size="20.000000" -s bridge_skin_material_flow_2="100.000000" -s prime_tower_min_volume="6.000000" -s prime_tower_min_shell_thickness="0.400000" -s prime_tower_position_x="200.000000" -s prime_tower_brim_enable="false" -s prime_tower_base_size="1.200000" -s prime_tower_base_height="0.000000" -s prime_tower_base_curve_magnitude="4.000000" -s prime_tower_raft_base_line_spacing="1.600000" -s interlocking_enable="false" -s interlocking_beam_layer_count="2.000000" -s interlocking_boundary_avoidance="2.000000" -s meshfix_union_all_remove_holes="false" -s carve_multiple_volumes="true" -s alternate_carve_order="true" -s meshfix_maximum_resolution="0.500000" -s meshfix_maximum_extrusion_area_deviation="50000.000000" -s meshfix_fluid_motion_small_distance="0.010000" -s small_feature_speed_factor="50.000000" -s cutting_mesh="false" -s smooth_spiralized_contours="true" -s relative_extrusion="false" -s slicing_tolerance="middle" -s support_skip_some_zags="false" -s scarf_split_distance="1.000000" -s support_zag_skip_count="5.000000" -s conical_overhang_angle="50.000000" -s cross_infill_pocket_size="2.000000" -s cross_support_density_image="" -s support_conical_enabled="false" -s support_conical_min_width="5.000000" -s magic_fuzzy_skin_outside_only="false" -s magic_fuzzy_skin_thickness="0.300000" -s magic_fuzzy_skin_point_dist="0.800000" -s adaptive_layer_height_variation="0.100000" -s adaptive_layer_height_variation_step="0.010000" -s adaptive_layer_height_threshold="0.200000" -s cool_min_layer_time_overhang="5.000000" -s wall_line_width="0.4" -s wall_overhang_speed_factors="[100]" -s bridge_settings_enabled="false" -s bridge_skin_support_threshold="50.000000" -s bridge_wall_coast="100.000000" -s bridge_wall_speed="15.000000" -s wall_thickness="1.2" -s bridge_skin_speed="15.000000" -s bridge_skin_material_flow="60.000000" -s bridge_fan_speed="100.000000" -s bridge_enable_more_layers="true" -s bridge_skin_speed_2="25.000000" -s bridge_fan_speed_2="0.000000" -s bridge_skin_material_flow_3="110.000000" -s bridge_skin_density_3="80.000000" -s bridge_fan_speed_3="0.000000" -s clean_between_layers="false" -s max_extrusion_before_wipe="10.000000" -s wipe_retraction_enable="true" -s wipe_retraction_amount="1.000000" -s wipe_retraction_extra_prime_amount="0.000000" -s wipe_retraction_retract_speed="3.000000" -s wipe_retraction_prime_speed="2.000000" -s wipe_hop_amount="1.000000" -s wipe_hop_speed="10.000000" -s wipe_brush_pos_x="100.000000" -s wipe_repeat_count="5.000000" -s material_alternate_walls="false" -s scarf_joint_seam_length="0.000000" -s scarf_joint_seam_start_height_ratio="0.000000" -s wall_0_start_speed_ratio="100.000000" -s wall_0_acceleration="20.000000" -s wall_0_deceleration="20.000000" -s flow_warn_limit="15.000000" -s print_temp_warn_limit="3.000000" -s bv_temp_anomaly_limit="10.000000" -s center_object="false" -s mesh_rotation_matrix="[[1,0,0], [0,1,0], [0,0,1]]" -s material_flow="100" -s line_width="0.4" -s brim_width="8" -s infill_overlap="20" -s infill_sparse_density="30" -s speed_layer_0="18" -s top_thickness="1.6" -s skin_overlap="20" -s roofing_layer_count="1" -s flooring_layer_count="0" -s speed_print="45" -s retraction_speed="40" -s cool_fan_speed="100" -s cool_fan_full_at_height="0.6" -s extruder_nr="0" -e0 -s material_bed_temperature="58" -s speed_roofing="20" -s machine_extruder_end_pos_y="0.000000" -s machine_extruder_end_code_duration="0.000000" -s extruder_nr="0" -s machine_extruder_cooling_fan_number="0.000000" -s material_bed_temperature_layer_0="60" -s machine_nozzle_temp_enabled="true" -s retraction_prime_speed="30" -s extruder_prime_pos_z="0.000000" -s machine_extruder_change_duration="0.000000" -s machine_extruder_start_code_duration="0.000000" -s machine_extruder_start_pos_y="0.000000" -s machine_extruder_end_code="" -s cool_fan_speed="100" -s machine_extruder_end_pos_x="0.000000" -s infill_pattern="grid" -s machine_extruder_end_pos_abs="false" -s layer_height="0.2" -s meshfix_keep_open_polygons="true" -s machine_extruder_prestart_code="" -s machine_heated_bed="true" -s skin_line_width="0.4" -s extruders_enabled_count="1" -s machine_nozzle_offset_y="0.000000" -s machine_extruder_start_code="" -s machine_extruder_start_pos_abs="false" -s machine_extruder_start_pos_x="0.000000" -s machine_nozzle_head_distance="3.000000" -s brim_width="8" -s machine_nozzle_id="unknown" -s machine_nozzle_offset_x="0.000000" -s machine_nozzle_size="0.4" -s speed_wall_0="25" -s brim_line_count="10" -s material_diameter="1.75" -s extruder_prime_pos_x="0.000000" -s extruder_prime_pos_y="0.000000" -s machine_width="360" -s machine_depth="360" -s machine_height="360" -s gradual_infill_steps="0" -s machine_extruder_count="1" -s infill_material_flow="100" -s machine_center_is_zero="false" -s machine_gcode_flavor="RepRap (Marlin/Sprinter)" -s machine_start_gcode="G28 ; Home all axes\nG29 ; Auto bed leveling\nG92 E0 ; Reset Extruder\nG1 Z2.0 F3000 ; Move Z Axis up\nG1 X10.1 Y20 Z0.28 F5000.0 ; Move to start position\nG1 X10.1 Y200.0 Z0.28 F1500.0 E15 ; Draw the first line\nG1 X10.4 Y200.0 Z0.28 F5000.0 ; Move to side a little\nG1 X10.4 Y20 Z0.28 F1500.0 E30 ; Draw the second line\nG92 E0 ; Reset Extruder\nG1 Z2.0 F3000 ; Move Z Axis up\n" -s machine_end_gcode="G91 ; Relative positioning\nG1 E-2 F2700 ; Retract the filament\nG1 Z10 F3000 ; Move Z up 10mm\nG90 ; Absolute positioning\nG1 X0 Y300 F3000 ; Present print\nM104 S0 ; Turn off extruder heating\nM140 S0 ; Turn off bed heating\nM106 S0 ; Turn off cooling fan\nM84 ; Disable steppers\n" -s speed_wall="30" -s skin_material_flow="105" -s material_print_temperature="210" -s retraction_combing="noskin" -s infill_line_distance="2.8" -s line_width="0.4" -s material_print_temperature_layer_0="215" -s material_flow="100" -s layer_height_0="0.3" -s wall_overhang_speed_factors="[100]" -s wall_line_width="0.4" -s infill_line_width="0.42" -s meshfix_extensive_stitching="true" -s infill_wall_line_count="1" -s adhesion_type="brim" -s infill_sparse_density="30" -s infill_overlap="20" -s speed_layer_0="18" -s top_thickness="1.6" -s extra_infill_lines_to_support_skins="walls" -s bottom_layers="5" -s zig_zaggify_infill="true" -s meshfix_union_all="true" -s top_layers="8" -s bottom_thickness="1.0" -s top_bottom_thickness="1.6" -s wall_line_count="3" -s wall_thickness="1.2" -s skin_overlap="20" -s fill_outline_gaps="true" -s skin_no_small_gaps_heuristic="false" -s skin_edge_support_layers="4" -s skin_edge_support_thickness="0.8" -s skin_outline_count="2" -s skin_monotonic="true" -s connect_skin_polygons="true" -s small_skin_on_surface="true" -s top_bottom_pattern="lines" -s roofing_layer_count="1" -s flooring_layer_count="0" -s roofing_pattern="lines" -s speed_print="45" -s speed_infill="45" -s speed_wall_x="30" -s speed_topbottom="22" -s speed_travel="120" -s speed_travel_layer_0="80" -s retraction_extra_prime_amount="0.04" -s retraction_enable="true" -s retraction_amount="4.5" -s retraction_speed="40" -s retraction_retract_speed="40" -s retraction_min_travel="1.2" -s cool_fan_enabled="true" -s cool_fan_speed_0="0" -s cool_fan_full_at_height="0.6" -s cool_min_layer_time="8" -s ironing_enabled="false" -s support_enable="false" -s optimize_wall_printing_order="true" -s retract_at_layer_change="false" -s acceleration_enabled="false" -s jerk_enabled="false" -s relative_extrusion="false" -s center_object="false" -s mesh_position_x="180" -s mesh_position_y="180" -s mesh_position_z="-4.492" -s mesh_rotation_matrix="[[1,0,0], [0,1,0], [0,0,1]]" -s infill_angles="[45, 135]" -s skin_angles="[45, 135]" -s roofing_angles="[45, 135]" -s flooring_angles="[45, 135]" -s support_infill_angles="[45, 135]" -g -e0 -l "0" -s material_bed_temperature="58" -s speed_roofing="20" -s machine_extruder_end_pos_y="0.000000" -s machine_extruder_end_code_duration="0.000000" -s extruder_nr="0" -s machine_extruder_cooling_fan_number="0.000000" -s material_bed_temperature_layer_0="60" -s machine_nozzle_temp_enabled="true" -s retraction_prime_speed="30" -s extruder_prime_pos_z="0.000000" -s machine_extruder_change_duration="0.000000" -s machine_extruder_start_code_duration="0.000000" -s machine_extruder_start_pos_y="0.000000" -s machine_extruder_end_code="" -s cool_fan_speed="100" -s machine_extruder_end_pos_x="0.000000" -s infill_pattern="grid" -s machine_extruder_end_pos_abs="false" -s layer_height="0.2" -s meshfix_keep_open_polygons="true" -s machine_extruder_prestart_code="" -s machine_heated_bed="true" -s skin_line_width="0.4" -s extruders_enabled_count="1" -s machine_nozzle_offset_y="0.000000" -s machine_extruder_start_code="" -s machine_extruder_start_pos_abs="false" -s machine_extruder_start_pos_x="0.000000" -s machine_nozzle_head_distance="3.000000" -s brim_width="8" -s machine_nozzle_id="unknown" -s machine_nozzle_offset_x="0.000000" -s machine_nozzle_size="0.4" -s speed_wall_0="25" -s brim_line_count="10" -s material_diameter="1.75" -s extruder_prime_pos_x="0.000000" -s extruder_prime_pos_y="0.000000" -s machine_width="360" -s machine_depth="360" -s machine_height="360" -s gradual_infill_steps="0" -s machine_extruder_count="1" -s infill_material_flow="100" -s machine_center_is_zero="false" -s machine_gcode_flavor="RepRap (Marlin/Sprinter)" -s machine_start_gcode="G28 ; Home all axes\nG29 ; Auto bed leveling\nG92 E0 ; Reset Extruder\nG1 Z2.0 F3000 ; Move Z Axis up\nG1 X10.1 Y20 Z0.28 F5000.0 ; Move to start position\nG1 X10.1 Y200.0 Z0.28 F1500.0 E15 ; Draw the first line\nG1 X10.4 Y200.0 Z0.28 F5000.0 ; Move to side a little\nG1 X10.4 Y20 Z0.28 F1500.0 E30 ; Draw the second line\nG92 E0 ; Reset Extruder\nG1 Z2.0 F3000 ; Move Z Axis up\n" -s machine_end_gcode="G91 ; Relative positioning\nG1 E-2 F2700 ; Retract the filament\nG1 Z10 F3000 ; Move Z up 10mm\nG90 ; Absolute positioning\nG1 X0 Y300 F3000 ; Present print\nM104 S0 ; Turn off extruder heating\nM140 S0 ; Turn off bed heating\nM106 S0 ; Turn off cooling fan\nM84 ; Disable steppers\n" -s speed_wall="30" -s skin_material_flow="105" -s material_print_temperature="210" -s retraction_combing="noskin" -s infill_line_distance="2.8" -s line_width="0.4" -s material_print_temperature_layer_0="215" -s material_flow="100" -s layer_height_0="0.3" -s wall_overhang_speed_factors="[100]" -s wall_line_width="0.4" -s infill_line_width="0.42" -s meshfix_extensive_stitching="true" -s infill_wall_line_count="1" -s adhesion_type="brim" -s infill_sparse_density="30" -s infill_overlap="20" -s speed_layer_0="18" -s top_thickness="1.6" -s extra_infill_lines_to_support_skins="walls" -s bottom_layers="5" -s zig_zaggify_infill="true" -s meshfix_union_all="true" -s top_layers="8" -s bottom_thickness="1.0" -s top_bottom_thickness="1.6" -s wall_line_count="3" -s wall_thickness="1.2" -s skin_overlap="20" -s fill_outline_gaps="true" -s skin_no_small_gaps_heuristic="false" -s skin_edge_support_layers="4" -s skin_edge_support_thickness="0.8" -s skin_outline_count="2" -s skin_monotonic="true" -s connect_skin_polygons="true" -s small_skin_on_surface="true" -s top_bottom_pattern="lines" -s roofing_layer_count="1" -s flooring_layer_count="0" -s roofing_pattern="lines" -s speed_print="45" -s speed_infill="45" -s speed_wall_x="30" -s speed_topbottom="22" -s speed_travel="120" -s speed_travel_layer_0="80" -s retraction_extra_prime_amount="0.04" -s retraction_enable="true" -s retraction_amount="4.5" -s retraction_speed="40" -s retraction_retract_speed="40" -s retraction_min_travel="1.2" -s cool_fan_enabled="true" -s cool_fan_speed_0="0" -s cool_fan_full_at_height="0.6" -s cool_min_layer_time="8" -s ironing_enabled="false" -s support_enable="false" -s optimize_wall_printing_order="true" -s retract_at_layer_change="false" -s acceleration_enabled="false" -s jerk_enabled="false" -s relative_extrusion="false" -s center_object="false" -s mesh_position_x="180" -s mesh_position_y="180" -s mesh_position_z="-4.492" -s mesh_rotation_matrix="[[1,0,0], [0,1,0], [0,0,1]]" -s infill_angles="[45, 135]" -s skin_angles="[45, 135]" -s roofing_angles="[45, 135]" -s flooring_angles="[45, 135]" -s support_infill_angles="[45, 135]"
+
+[2026-09-21 13:29:59.662] [info] Progress: start accomplished in 0.000s
+[2026-09-21 13:29:59.662] [info] Starting slice...
+[2026-09-21 13:29:59.662] [info] Slicing model...
+[2026-09-21 13:29:59.665] [info] Slice of mesh took 0.003 seconds
+[2026-09-21 13:29:59.669] [info] Make polygons took 0.005 seconds
+[2026-09-21 13:29:59.670] [info] Progress: slice accomplished in 0.008s
+[2026-09-21 13:29:59.670] [info] Starting layerparts...
+[2026-09-21 13:29:59.672] [info] Progress: layerparts accomplished in 0.002s
+[2026-09-21 13:29:59.672] [info] Starting inset+skin...
+[2026-09-21 13:29:59.672] [debug] Processing insets for layer 0 of 48
+[2026-09-21 13:29:59.672] [debug] Processing insets for layer 1 of 48
+[2026-09-21 13:29:59.672] [debug] Processing insets for layer 2 of 48
+[2026-09-21 13:29:59.672] [debug] Processing insets for layer 3 of 48
+[2026-09-21 13:29:59.672] [debug] Processing insets for layer 4 of 48
+[2026-09-21 13:29:59.672] [debug] Processing insets for layer 5 of 48
+[2026-09-21 13:29:59.672] [debug] Processing insets for layer 6 of 48
+[2026-09-21 13:29:59.672] [debug] Processing insets for layer 7 of 48
+[2026-09-21 13:29:59.673] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.673] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.673] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.673] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.673] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.673] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.674] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.674] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.674] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.674] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.674] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.674] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.674] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.674] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.675] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.675] [debug] Processing insets for layer 8 of 48
+[2026-09-21 13:29:59.675] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.675] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.675] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.675] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.675] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.675] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.675] [debug] Processing insets for layer 9 of 48
+[2026-09-21 13:29:59.675] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.675] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.675] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.677] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.677] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.677] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.678] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.678] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.678] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.685] [debug] Processing insets for layer 10 of 48
+[2026-09-21 13:29:59.685] [debug] Processing insets for layer 11 of 48
+[2026-09-21 13:29:59.687] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.687] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.687] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.688] [debug] Processing insets for layer 12 of 48
+[2026-09-21 13:29:59.688] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.688] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.688] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.690] [debug] Processing insets for layer 13 of 48
+[2026-09-21 13:29:59.691] [debug] Processing insets for layer 14 of 48
+[2026-09-21 13:29:59.691] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.691] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.691] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.693] [debug] Processing insets for layer 15 of 48
+[2026-09-21 13:29:59.693] [debug] Processing insets for layer 16 of 48
+[2026-09-21 13:29:59.693] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.693] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.693] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.694] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.694] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.694] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.695] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.695] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.695] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.695] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.696] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.696] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.697] [debug] Processing insets for layer 17 of 48
+[2026-09-21 13:29:59.700] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.700] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.700] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.703] [debug] Processing insets for layer 18 of 48
+[2026-09-21 13:29:59.704] [debug] Processing insets for layer 19 of 48
+[2026-09-21 13:29:59.705] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.705] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.705] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.707] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.707] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.707] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.709] [debug] Processing insets for layer 20 of 48
+[2026-09-21 13:29:59.710] [debug] Processing insets for layer 21 of 48
+[2026-09-21 13:29:59.711] [debug] Processing insets for layer 22 of 48
+[2026-09-21 13:29:59.712] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.712] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.712] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.713] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.713] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.713] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.713] [debug] Processing insets for layer 23 of 48
+[2026-09-21 13:29:59.714] [debug] Processing insets for layer 24 of 48
+[2026-09-21 13:29:59.714] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.714] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.714] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.716] [debug] Processing insets for layer 25 of 48
+[2026-09-21 13:29:59.716] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.716] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.716] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.719] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.719] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.719] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.720] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.720] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.720] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.720] [debug] Processing insets for layer 26 of 48
+[2026-09-21 13:29:59.722] [debug] Processing insets for layer 27 of 48
+[2026-09-21 13:29:59.723] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.723] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.723] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.725] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.725] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.725] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.726] [debug] Processing insets for layer 28 of 48
+[2026-09-21 13:29:59.729] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.729] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.729] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.729] [debug] Processing insets for layer 29 of 48
+[2026-09-21 13:29:59.730] [debug] Processing insets for layer 30 of 48
+[2026-09-21 13:29:59.732] [debug] Processing insets for layer 31 of 48
+[2026-09-21 13:29:59.732] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.732] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.732] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.732] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.732] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.732] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.734] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.734] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.734] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.735] [debug] Processing insets for layer 32 of 48
+[2026-09-21 13:29:59.738] [debug] Processing insets for layer 33 of 48
+[2026-09-21 13:29:59.738] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.738] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.738] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.739] [debug] Processing insets for layer 34 of 48
+[2026-09-21 13:29:59.739] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.740] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.740] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.740] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.740] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.740] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.741] [debug] Processing insets for layer 35 of 48
+[2026-09-21 13:29:59.743] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.743] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.743] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.746] [debug] Processing insets for layer 36 of 48
+[2026-09-21 13:29:59.747] [debug] Processing insets for layer 37 of 48
+[2026-09-21 13:29:59.747] [debug] Processing insets for layer 38 of 48
+[2026-09-21 13:29:59.748] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.748] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.748] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.748] [debug] Processing insets for layer 39 of 48
+[2026-09-21 13:29:59.748] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.748] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.748] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.749] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.749] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.749] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.750] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.750] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.750] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.750] [debug] Processing insets for layer 40 of 48
+[2026-09-21 13:29:59.751] [debug] Processing insets for layer 41 of 48
+[2026-09-21 13:29:59.752] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.752] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.753] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.753] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.754] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.754] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.755] [debug] Processing insets for layer 42 of 48
+[2026-09-21 13:29:59.755] [debug] Processing insets for layer 43 of 48
+[2026-09-21 13:29:59.756] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.756] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.756] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.757] [debug] Processing insets for layer 44 of 48
+[2026-09-21 13:29:59.757] [debug] Processing insets for layer 45 of 48
+[2026-09-21 13:29:59.757] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.757] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.757] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.758] [debug] Processing insets for layer 46 of 48
+[2026-09-21 13:29:59.758] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.758] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.758] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.758] [debug] Processing insets for layer 47 of 48
+[2026-09-21 13:29:59.759] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.759] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.759] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.760] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.760] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.760] [debug] Applying the Redistribute meta-strategy with outer-wall width = 400, inner-wall width = 400
+[2026-09-21 13:29:59.760] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.760] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 6
+[2026-09-21 13:29:59.768] [info] Skipped 1 duplicate messages..
+[2026-09-21 13:29:59.768] [debug] Processing skins and infill layer 0 of 48
+[2026-09-21 13:29:59.768] [debug] Processing skins and infill layer 1 of 48
+[2026-09-21 13:29:59.768] [debug] Processing skins and infill layer 3 of 48
+[2026-09-21 13:29:59.768] [debug] Processing skins and infill layer 2 of 48
+[2026-09-21 13:29:59.768] [debug] Processing skins and infill layer 4 of 48
+[2026-09-21 13:29:59.768] [debug] Processing skins and infill layer 5 of 48
+[2026-09-21 13:29:59.768] [debug] Processing skins and infill layer 6 of 48
+[2026-09-21 13:29:59.768] [debug] Processing skins and infill layer 7 of 48
+[2026-09-21 13:29:59.769] [debug] Processing skins and infill layer 8 of 48
+[2026-09-21 13:29:59.770] [debug] Processing skins and infill layer 9 of 48
+[2026-09-21 13:29:59.772] [debug] Processing skins and infill layer 10 of 48
+[2026-09-21 13:29:59.772] [debug] Processing skins and infill layer 11 of 48
+[2026-09-21 13:29:59.773] [debug] Processing skins and infill layer 12 of 48
+[2026-09-21 13:29:59.773] [debug] Processing skins and infill layer 13 of 48
+[2026-09-21 13:29:59.775] [debug] Processing skins and infill layer 14 of 48
+[2026-09-21 13:29:59.775] [debug] Processing skins and infill layer 15 of 48
+[2026-09-21 13:29:59.775] [debug] Processing skins and infill layer 16 of 48
+[2026-09-21 13:29:59.776] [debug] Processing skins and infill layer 17 of 48
+[2026-09-21 13:29:59.776] [debug] Processing skins and infill layer 18 of 48
+[2026-09-21 13:29:59.777] [debug] Processing skins and infill layer 19 of 48
+[2026-09-21 13:29:59.777] [debug] Processing skins and infill layer 20 of 48
+[2026-09-21 13:29:59.778] [debug] Processing skins and infill layer 21 of 48
+[2026-09-21 13:29:59.778] [debug] Processing skins and infill layer 22 of 48
+[2026-09-21 13:29:59.778] [debug] Processing skins and infill layer 23 of 48
+[2026-09-21 13:29:59.779] [debug] Processing skins and infill layer 24 of 48
+[2026-09-21 13:29:59.780] [debug] Processing skins and infill layer 25 of 48
+[2026-09-21 13:29:59.780] [debug] Processing skins and infill layer 26 of 48
+[2026-09-21 13:29:59.780] [debug] Processing skins and infill layer 27 of 48
+[2026-09-21 13:29:59.781] [debug] Processing skins and infill layer 28 of 48
+[2026-09-21 13:29:59.781] [debug] Processing skins and infill layer 29 of 48
+[2026-09-21 13:29:59.782] [debug] Processing skins and infill layer 30 of 48
+[2026-09-21 13:29:59.782] [debug] Processing skins and infill layer 31 of 48
+[2026-09-21 13:29:59.782] [debug] Processing skins and infill layer 32 of 48
+[2026-09-21 13:29:59.783] [debug] Processing skins and infill layer 33 of 48
+[2026-09-21 13:29:59.783] [debug] Processing skins and infill layer 34 of 48
+[2026-09-21 13:29:59.784] [debug] Processing skins and infill layer 35 of 48
+[2026-09-21 13:29:59.784] [debug] Processing skins and infill layer 36 of 48
+[2026-09-21 13:29:59.784] [debug] Processing skins and infill layer 37 of 48
+[2026-09-21 13:29:59.785] [debug] Processing skins and infill layer 38 of 48
+[2026-09-21 13:29:59.787] [debug] Processing skins and infill layer 39 of 48
+[2026-09-21 13:29:59.787] [debug] Processing skins and infill layer 40 of 48
+[2026-09-21 13:29:59.789] [debug] Processing skins and infill layer 41 of 48
+[2026-09-21 13:29:59.789] [debug] Processing skins and infill layer 42 of 48
+[2026-09-21 13:29:59.789] [debug] Processing skins and infill layer 43 of 48
+[2026-09-21 13:29:59.790] [debug] Processing skins and infill layer 44 of 48
+[2026-09-21 13:29:59.790] [debug] Processing skins and infill layer 45 of 48
+[2026-09-21 13:29:59.790] [debug] Processing skins and infill layer 46 of 48
+[2026-09-21 13:29:59.791] [debug] Processing skins and infill layer 47 of 48
+[2026-09-21 13:29:59.793] [info] Progress: inset+skin accomplished in 0.121s
+[2026-09-21 13:29:59.793] [info] Starting support...
+[2026-09-21 13:29:59.793] [debug] Processing ooze shield
+[2026-09-21 13:29:59.793] [debug] Processing draft shield
+[2026-09-21 13:29:59.793] [debug] Processing platform adhesion
+[2026-09-21 13:29:59.800] [debug] Meshes post-processing
+[2026-09-21 13:29:59.800] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:29:59.800] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.800] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:29:59.803] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:29:59.803] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.803] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:29:59.807] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:29:59.807] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.807] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:29:59.811] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:29:59.811] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.811] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:29:59.817] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:29:59.817] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.817] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:29:59.826] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:29:59.826] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.826] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:29:59.838] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:29:59.838] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.838] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:29:59.851] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:29:59.851] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.851] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:29:59.861] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:29:59.861] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.861] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:29:59.871] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:29:59.871] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.871] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:29:59.882] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:29:59.882] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.882] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:29:59.892] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:29:59.892] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.892] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:29:59.903] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:29:59.903] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.903] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:29:59.914] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:29:59.914] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.914] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:29:59.924] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:29:59.924] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.924] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:29:59.934] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:29:59.934] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.934] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:29:59.943] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:29:59.943] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.943] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:29:59.953] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:29:59.953] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.953] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:29:59.962] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:29:59.962] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.962] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:29:59.973] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:29:59.973] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.973] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:29:59.983] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:29:59.983] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.983] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:29:59.992] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:29:59.992] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:29:59.992] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:30:00.001] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:30:00.001] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:30:00.001] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:30:00.012] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:30:00.012] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:30:00.012] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:30:00.021] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:30:00.022] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:30:00.022] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:30:00.030] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:30:00.031] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:30:00.031] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:30:00.039] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:30:00.039] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:30:00.039] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:30:00.048] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:30:00.048] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:30:00.048] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:30:00.057] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:30:00.057] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:30:00.057] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:30:00.064] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:30:00.064] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:30:00.064] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:30:00.071] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:30:00.071] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:30:00.071] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:30:00.077] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:30:00.077] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:30:00.077] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:30:00.082] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:30:00.082] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:30:00.082] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:30:00.086] [debug] Applying the Redistribute meta-strategy with outer-wall width = 420, inner-wall width = 420
+[2026-09-21 13:30:00.086] [debug] Applying the Widening Beading meta-strategy with minimum input width 100 and minimum output width 200.
+[2026-09-21 13:30:00.086] [debug] Applying the Limited Beading meta-strategy with maximum bead count = 2
+[2026-09-21 13:30:00.089] [debug] Processing gradual support
+[2026-09-21 13:30:00.089] [info] Progress: support accomplished in 0.297s
+[2026-09-21 13:30:00.089] [info] Starting export...
+[2026-09-21 13:30:00.090] [debug] GcodeWriter processing layer 0 of 48
+[2026-09-21 13:30:00.090] [debug] GcodeWriter processing layer 1 of 48
+[2026-09-21 13:30:00.090] [debug] GcodeWriter processing layer 2 of 48
+[2026-09-21 13:30:00.090] [debug] GcodeWriter processing layer 3 of 48
+[2026-09-21 13:30:00.090] [debug] GcodeWriter processing layer 4 of 48
+[2026-09-21 13:30:00.090] [debug] GcodeWriter processing layer 5 of 48
+[2026-09-21 13:30:00.090] [debug] GcodeWriter processing layer 6 of 48
+[2026-09-21 13:30:00.090] [debug] GcodeWriter processing layer 7 of 48
+

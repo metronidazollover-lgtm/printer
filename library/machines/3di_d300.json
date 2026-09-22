@@ -1,0 +1,20 @@
+{
+  "id": "3di_d300",
+  "title": "3DI D300",
+  "kind": "machine",
+  "manufacturer": "3Deometry Innovations",
+  "source": "cura:3di_d300",
+  "verified": false,
+  "warn": "Импорт из Cura, на этом столе не проверен. Пока в HARDWARE стоит Tornado, на слайс не отправлять. Драйверы и направляющие в файле не описаны.",
+  "note": "Числа и стартовый код взяты буквально из определения Cura. Ретракт, температуры и сопло не копировались.",
+  "settings": {
+    "machine_center_is_zero": true,
+    "machine_depth": 300,
+    "machine_end_gcode": "M104 S0 ;extruder heater off\nM140 S0 ;heated bed heater off (if you have it)\nG91 ;relative positioning\nG1 E-1 F300  ;retract the filament a bit before lifting the nozzle, to release some of the pressure\nG28 ;Home all axes (max endstops)\nM84 ;steppers off\nG90 ;absolute positioning",
+    "machine_gcode_flavor": "RepRap (Marlin/Sprinter)",
+    "machine_heated_bed": true,
+    "machine_height": 300,
+    "machine_start_gcode": "G21 ;metric values\nG90 ;absolute positioning\nM82 ;set extruder to absolute mode\nM107 ;start with the fan off\nG28 ;Home all axes (max endstops)\nG1 Z15.0 F9000 ;move the platform down 15mm\nG92 E0 ;zero the extruded length\nG1 F200 E3 ;extrude 3mm of feed stock\nG92 E0 ;zero the extruded length again\nG1 F9000\n;Put printing message on LCD screen\nM117 Printing...",
+    "machine_width": 300
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "esun_pla_plus_gray",
+  "title": "eSUN PLA+ gray",
+  "kind": "filament",
+  "verified": true,
+  "warn": "",
+  "note": "Полка «У нас» из library/materials/pla.md. Ретракт 3 мм / 25 мм/с, не 4.5/40.",
+  "settings": {
+    "material_diameter": 1.75,
+    "material_print_temperature": 215,
+    "material_print_temperature_layer_0": 220,
+    "material_bed_temperature": 60,
+    "material_bed_temperature_layer_0": 60,
+    "cool_fan_enabled": true,
+    "cool_fan_speed": 100,
+    "cool_fan_speed_0": 0,
+    "cool_fan_full_at_height": 0.64,
+    "retraction_enable": true,
+    "retraction_amount": 3,
+    "retraction_speed": 25,
+    "retraction_combing": "all"
+  }
+}

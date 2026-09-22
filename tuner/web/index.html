@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Настройщик печати</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <div class="app">
+    <aside>
+      <div class="aside-head">Пресеты</div>
+      <ul id="preset-list"></ul>
+    </aside>
+    <main>
+      <header id="top">
+        <div class="title-row">
+          <h1 id="title">Настройщик печати</h1>
+          <span id="status" class="status"></span>
+        </div>
+        <div class="meta" id="meta"></div>
+        <div class="stack" id="stack">
+          <div class="stack-group">
+            <label>Принтер <select id="printer"></select></label>
+            <button type="button" id="printer-add">Добавить</button>
+            <button type="button" id="printer-cura">Из Cura</button>
+            <button type="button" id="printer-settings-toggle" aria-expanded="false">Настройки</button>
+          </div>
+          <label>Филамент <select id="filament"></select></label>
+          <button type="button" id="filament-add">Добавить</button>
+          <button type="button" id="filament-cura">Из Cura</button>
+          <label>Сопло <select id="nozzle"></select></label>
+          <button type="button" id="nozzle-add">Добавить</button>
+          <button type="button" id="nozzle-cura">Из Cura</button>
+        </div>
+        <p id="hardware-warn" class="banner warn" hidden></p>
+        <div class="toolbar">
+          <label>Настройки печати
+            <select id="visibility">
+              <option value="custom">Свой выбор</option>
+              <option value="basic" selected>Базовые</option>
+              <option value="advanced">Расширенные</option>
+              <option value="expert">Эксперт</option>
+              <option value="all">Все</option>
+            </select>
+          </label>
+          <button type="button" id="custom-open">Настроить свой выбор</button>
+          <label class="check"><input type="checkbox" id="only-changed"> Только изменённые</label>
+          <input id="search" type="search" placeholder="Найти настройку" autocomplete="off">
+          <span id="counts" class="counts"></span>
+        </div>
+        <div class="legend">
+          <span class="legend-item"><span class="swatch proposed"></span> предложено — отличается от текущего профиля</span>
+          <span class="legend-item"><span class="swatch edited"></span> ваша правка, ещё не записана в файл</span>
+        </div>
+        <p id="hidden-note" class="banner" hidden></p>
+        <p id="message" class="message" hidden></p>
+      </header>
+      <div id="printer-settings" class="printer-panel" hidden></div>
+      <div id="settings"></div>
+      <section class="panel" id="review">
+        <h2>Заметка</h2>
+        <textarea id="note" rows="4"></textarea>
+        <div class="actions">
+          <button type="button" id="save">Сохранить правки</button>
+          <button type="button" id="approve" class="primary">Утвердить</button>
+        </div>
+        <h2>Результат печати</h2>
+        <ul id="prints"></ul>
+        <div class="result-form">
+          <label>Дата <input id="print-date" type="date"></label>
+          <label>Итог
+            <select id="print-result">
+              <option value="success">успех</option>
+              <option value="partial">частично</option>
+              <option value="fail">неудача</option>
+            </select>
+          </label>
+          <label class="grow">Заметка <input id="print-note" type="text" placeholder="что вышло на детали"></label>
+          <button type="button" id="add-print">Записать результат</button>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <dialog id="add-dialog">
+    <form method="dialog" id="add-form">
+      <div class="dialog-head">
+        <h2 id="add-title">Новая карточка</h2>
+        <button type="submit" value="cancel">Закрыть</button>
+      </div>
+      <div class="dialog-tools">
+        <label>Название <input id="add-name" type="text" required></label>
+        <label>Имя файла <input id="add-id" type="text" required pattern="[A-Za-z0-9][A-Za-z0-9_-]{0,80}" placeholder="латиница, например pla_white"></label>
+        <button type="submit" value="save" class="primary">Сохранить копию</button>
+      </div>
+    </form>
+  </dialog>
+  <dialog id="cura-dialog">
+    <form method="dialog">
+      <div class="dialog-head">
+        <h2 id="cura-title">Из Cura</h2>
+        <button type="submit" value="close">Закрыть</button>
+      </div>
+      <div class="dialog-tools">
+        <input id="cura-search" type="search" placeholder="Название, например Ender или Ghost">
+      </div>
+      <p id="cura-note" class="dialog-note"></p>
+      <div id="cura-list"></div>
+    </form>
+  </dialog>
+  <dialog id="custom-dialog">
+    <form method="dialog">
+      <div class="dialog-head">
+        <h2>Свой выбор</h2>
+        <button type="submit" value="close">Готово</button>
+      </div>
+      <div class="dialog-tools">
+        <button type="button" id="custom-changed">Отметить изменённые</button>
+        <button type="button" id="custom-clear">Очистить</button>
+      </div>
+      <div id="custom-list"></div>
+    </form>
+  </dialog>
+  <div id="tip" hidden></div>
+  <script src="/app.js"></script>
+</body>
+</html>

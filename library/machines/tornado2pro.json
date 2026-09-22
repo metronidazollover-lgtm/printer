@@ -1,0 +1,17 @@
+{
+  "id": "tornado2pro",
+  "title": "FlyingBear Tornado 2 Pro",
+  "kind": "machine",
+  "drive": "bowden",
+  "verified": true,
+  "warn": "",
+  "note": "Стол 360, Bowden, стартовый код с G28 и G29. Карточка ручная: этой машины нет в каталоге Cura.",
+  "settings": {
+    "machine_width": 360,
+    "machine_depth": 360,
+    "machine_height": 360,
+    "machine_heated_bed": true,
+    "machine_start_gcode": "G28 ; Home all axes (Парковка всех осей)\nG29 ; Auto bed leveling (Сканирование стола датчиком и включение автоуровня)\nG92 E0 ; Reset Extruder (Сброс счетчика экструдера)\nG1 Z2.0 F3000 ; Move Z Axis up (Приподнять сопло)\nG1 X10.1 Y20 Z0.28 F5000.0 ; Move to start position (Встать в начальную точку линии очистки)\nG1 X10.1 Y200.0 Z0.28 F1500.0 E15 ; Draw the first line (Печать первой линии очистки)\nG1 X10.4 Y200.0 Z0.28 F5000.0 ; Move to side a little (Сдвиг вбок)\nG1 X10.4 Y20 Z0.28 F1500.0 E30 ; Draw the second line (Печать второй линии в обратную сторону)\nG92 E0 ; Reset Extruder (Сброс счетчика экструдера перед началом детали)\nG1 Z2.0 F3000 ; Move Z Axis up (Приподнять сопло, чтобы не царапать стол)",
+    "machine_end_gcode": "G91 ; Relative positioning (Относительные координаты для безопасного отвода сопла)\nG1 E-2 F2700 ; Retract the filament (Небольшой ретракт, чтобы пластик не вытекал)\nG1 Z10 F3000 ; Move Z up 10mm (Опустить стол на 10 мм вниз от детали)\nG90 ; Absolute positioning (Возврат к абсолютным координатам)\nG1 X0 Y300 F3000 ; Present print (Откатить экструдер влево, а огромный стол выдвинуть вперед)\nM104 S0 ; Turn off extruder heating (Выключить нагрев хотенда)\nM140 S0 ; Turn off bed heating (Выключить нагрев стола)\nM106 S0 ; Turn off cooling fan (Выключить обдув детали)\nM84 ; Disable steppers (Отключить шаговые двигатели, чтобы они остывали)"
+  }
+}
